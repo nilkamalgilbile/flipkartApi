@@ -1,0 +1,4016 @@
+[
+  {
+    "category_id": 1,
+    "productCategory_id": 1,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": [
+          "Ariel",
+          "Aashirvaad",
+          "Happilo",
+          "Saffola",
+          "Nescafe"
+        ]
+      },
+      {
+        "filter_id": 3,
+        "filter_name": "discount",
+        "filter_values": [
+          "5% or more",
+          "15% or more",
+          "35% or more",
+          "50% or more"
+        ]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 1,
+        "product_name": "Ariel Complete Detergent Powder 4 kg",
+        "product_img": "https://i.ibb.co/QpzDLDz/p1-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Perfect product!",
+        "cost": 570,
+        "actual_price": 1500,
+        "offer": "62% Off",
+        "images": [
+          "https://i.ibb.co/QpzDLDz/p1-1.png",
+          "https://i.ibb.co/Fw7mLX5/p1-2.png",
+          "https://i.ibb.co/5GZhJTz/p1-3.png",
+          "https://i.ibb.co/grwghVr/p1-4.png"
+        ],
+        "product_details": [
+          {
+            "Brand": "Ariel",
+            "Model_Name": "Complete",
+            "Quantity": "4 kg",
+            "Type": "Machine Wash Detergent"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 2,
+        "product_name": "AASHIRVAAD Superior MP Atta  (1 kg)",
+        "product_img": "https://i.ibb.co/XZWcThr/p2-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Wonderful",
+        "cost": 57,
+        "actual_price": 60,
+        "offer": "5% Off",
+        "images": [
+          "https://i.ibb.co/XZWcThr/p2-1.png",
+          "https://i.ibb.co/5TwyjSd/p2-2.png",
+          "https://i.ibb.co/3rnczx3/p2-3.png",
+          "https://i.ibb.co/SyL2Jbb/p2-4.png"
+        ],
+        "product_details": [
+          {
+            "Brand": "Aashirvaad",
+            "Model_Name": "Whole-Wheat Flour",
+            "Quantity": "1 kg",
+            "Used_For": "Cooking"
+          }
+        ]
+      },
+      {
+        "product_id": 3,
+        "item_id": 3,
+        "product_name": "Happilo Premium Californian Roasted & Salted Pistachios  (170 g)",
+        "product_img": "https://i.ibb.co/mN6sP8R/p3-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Wonderful",
+        "cost": 284,
+        "actual_price": 395,
+        "offer": "28% Off",
+        "images": [
+          "https://i.ibb.co/mN6sP8R/p3-1.png",
+          "https://i.ibb.co/W5ThcRf/p3-2.png",
+          "https://i.ibb.co/drmGn8b/p3-3.png",
+          "https://i.ibb.co/gz2RD82/p3-4.png"
+        ],
+        "product_details": [
+          {
+            "Brand": "Happilo",
+            "Type": "Whole-Wheat Flour",
+            "Quantity": "170 g",
+            "Variant": "Inshell"
+          }
+        ]
+      },
+      {
+        "product_id": 4,
+        "item_id": 4,
+        "product_name": "Saffola Honey Active, Made with Sundarban Forest Honey, 100% Pure, No sugar adulteration  (1 kg)",
+        "product_img": "https://i.ibb.co/51TM017/p4-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Excellent",
+        "cost": 308,
+        "actual_price": 475,
+        "offer": "35% Off",
+        "images": [
+          "https://i.ibb.co/51TM017/p4-1.png",
+          "https://i.ibb.co/FDtsbCP/p4-2.png",
+          "https://i.ibb.co/hDgvrVy/p4-3.png",
+          "https://i.ibb.co/9VWyykP/p4-4.png"
+        ],
+        "product_details": [
+          {
+            "Brand": "Saffola",
+            "Model_Name": "Honey Active, Made with Sundarban Forest Honey, 100% Pure, No sugar adulteration",
+            "Quantity": "1 kg",
+            "Source_Type": "Honey Bee"
+          }
+        ]
+      },
+      {
+        "product_id": 5,
+        "item_id": 5,
+        "product_name": "Nescafe Classic Powder, 100% Pure Coffee Jar Instant Coffee  (95 g)",
+        "product_img": "https://i.ibb.co/KDN2Th4/p5-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Classy product",
+        "cost": 312,
+        "actual_price": 340,
+        "offer": "8% Off",
+        "images": [
+          "https://i.ibb.co/KDN2Th4/p5-1.png",
+          "https://i.ibb.co/R9tCJ8C/p5-2.png",
+          "https://i.ibb.co/g79MsfK/p5-3.png",
+          "https://i.ibb.co/k90122Q/p5-4.png"
+        ],
+        "product_details": [
+          {
+            "Brand": "Nescafe",
+            "Model_Name": "Classic Powder, 100% Pure Coffee Jar",
+            "Quantity": "95 g",
+            "Coffee_Type": "Instant Coffee"
+          }
+        ]
+      },
+      {
+        "product_id": 6,
+        "item_id": 6,
+        "product_name": "Kissan Tomato Ketchup  (1.2 kg)",
+        "product_img": "https://i.ibb.co/k220dNX/p6-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Very good",
+        "cost": 132,
+        "actual_price": 160,
+        "offer": "17% Off",
+        "images": [
+          "https://i.ibb.co/k220dNX/p6-1.png",
+          "https://i.ibb.co/BfgfLrL/p6-2.png",
+          "https://i.ibb.co/7jD8WcG/p6-3.png",
+          "https://i.ibb.co/XXSZv58/p6-4.png"
+        ],
+        "product_details": [
+          {
+            "Brand": "Kissan",
+            "Model_Name": "Tomato",
+            "Quantity": "1.2 kg",
+            "Type": "Ketchup"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 2,
+    "productCategory_id": 1,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Apple", "Vivo", "realme", "Infix"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": [
+          "Midnight",
+          "Velocity Wave",
+          "Nebula Blue",
+          "Azure Blue"
+        ]
+      },
+      {
+        "filter_id": 4,
+        "filter_name": "cost",
+        "filter_values": ["9000 or more", "20000 or more", "70000 or more"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 7,
+        "product_name": "APPLE iPhone 14 (Midnight, 128 GB)",
+        "product_img": "https://i.ibb.co/cJVGQcH/p7-1.png",
+        "average_rating": 4.6,
+        "rating_text": "Fabulous!",
+        "cost": 70999,
+        "actual_price": 79900,
+        "offer": "11% Off",
+        "images": [
+          "https://i.ibb.co/cJVGQcH/p7-1.png",
+          "https://i.ibb.co/dWbzNWr/p7-2.png",
+          "https://i.ibb.co/8mJf26C/p7-3.png",
+          "https://i.ibb.co/dBw1yCQ/p7-4.png"
+        ],
+        "product_details": [
+          {
+            "In_The_Box": "Handset, USB-C to Lightning Cable, Documentation",
+            "Model_Name": "iPhone 14",
+            "Color": "Midnight",
+            "SIM_Type": "Dual Sim(Nano + eSIM)",
+            "Brand": "Apple"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 8,
+        "product_name": "vivo T2 5G (Velocity Wave, 128 GB)  (6 GB RAM)",
+        "product_img": "https://i.ibb.co/y0Lxt8C/p8-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Perfect product!",
+        "cost": 18999,
+        "actual_price": 23999,
+        "offer": "20% Off",
+        "images": [
+          "https://i.ibb.co/y0Lxt8C/p8-1.png",
+          "https://i.ibb.co/Fqf4MTg/p8-2.png",
+          "https://i.ibb.co/fF4YTqd/p8-3.png",
+          "https://i.ibb.co/gJMwPP8/p8-4.png"
+        ],
+        "product_details": [
+          {
+            "In_The_Box": "Handset, USB Power Adapter, USB Cable, Sim Eject Tool, Phone Case, Protective Film (Applied), Documentation",
+            "Model_Name": "T2 5G",
+            "Color": "Velocity Wave",
+            "SIM_Type": "Dual Sim",
+            "Brand": "Vivo"
+          }
+        ]
+      },
+      {
+        "product_id": 3,
+        "item_id": 9,
+        "product_name": "realme 10 Pro 5G (Nebula Blue, 128 GB)  (8 GB RAM)",
+        "product_img": "https://i.ibb.co/7S8Lmkt/p9-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": 19999,
+        "actual_price": 22999,
+        "offer": "13% Off",
+        "images": [
+          "https://i.ibb.co/7S8Lmkt/p9-1.png",
+          "https://i.ibb.co/HCFb9Pt/p9-2.png",
+          "https://i.ibb.co/SVrQKcC/p9-3.png",
+          "https://i.ibb.co/DRHqs8w/p9-4.png"
+        ],
+        "product_details": [
+          {
+            "In_The_Box": "Handset, Adapter, USB Cable, Important Info Booklet with Warranty Card, Quick Guide, Sim Card Tool, Screen Protect Film, TPU Case",
+            "Model_Name": "10 Pro 5G",
+            "Color": "Nebula Blue",
+            "SIM_Type": "Dual Sim",
+            "Brand": "realme"
+          }
+        ]
+      },
+      {
+        "product_id": 4,
+        "item_id": 10,
+        "product_name": "Infinix SMART 7 (Azure Blue, 64 GB)  (4 GB RAM)",
+        "product_img": "https://i.ibb.co/M69HnDx/p10-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Excellent",
+        "cost": 7299,
+        "actual_price": 9999,
+        "offer": "27% Off",
+        "images": [
+          "https://i.ibb.co/M69HnDx/p10-1.png",
+          "https://i.ibb.co/JRLJvhV/p10-2.png",
+          "https://i.ibb.co/d73nhyr/p10-3.png",
+          "https://i.ibb.co/3B0q3pm/p10-4.png"
+        ],
+        "product_details": [
+          {
+            "In_The_Box": "Handset, Adaptor, USB Type-C Cable, TPU Case, Sim Ejector Pin, Quick Start Guide, Warranty Card, Xclub Card",
+            "Model_Name": "SMART 7",
+            "Color": "Azure Blue",
+            "SIM_Type": "Dual Sim",
+            "Brand": "Infinix"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 1,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["BLIVE", "EyeBogler"]
+      },
+      {
+        "filter_id": 5,
+        "filter_name": "neck type",
+        "filter_values": ["Polo Neck", "Mandarin Collar"]
+      },
+      {
+        "filter_id": 6,
+        "filter_name": "fabric",
+        "filter_values": ["Pure Cotton", "Cotton Blend"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 11,
+        "product_name": "Men Solid Mandarin Collar Pure Cotton Black T-Shirt",
+        "product_img": "https://i.ibb.co/qRDKc44/p11-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Super!",
+        "cost": 284,
+        "actual_price": 1499,
+        "offer": "81% Off",
+        "images": [
+          "https://i.ibb.co/qRDKc44/p11-1.png",
+          "https://i.ibb.co/cTPQC7K/p11-2.png",
+          "https://i.ibb.co/YNB49h5/p11-3.png",
+          "https://i.ibb.co/fCqSQnz/p11-4.png"
+        ],
+        "size": ["S", "M", "L", "XL", "XXL"],
+        "product_details": [
+          {
+            "Neck_Type": "Mandarin Collar",
+            "Sleeve": "Half Sleeve",
+            "Fit": "Regular",
+            "Fabric": "Pure Cotton",
+            "brand": "BLIVE"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 12,
+        "product_name": "Men Striped Polo Neck Cotton Blend Blue T-Shirt",
+        "product_img": "https://i.ibb.co/0qtm41c/p12-1.png",
+        "average_rating": 3.8,
+        "rating_text": "Very very nice",
+        "cost": 279,
+        "actual_price": 1299,
+        "offer": "78% Off",
+        "images": [
+          "https://i.ibb.co/0qtm41c/p12-1.png",
+          "https://i.ibb.co/BjqrdBS/p12-2.png",
+          "https://i.ibb.co/dckQfk3/p12-3.png",
+          "https://i.ibb.co/zJRwFC8/p12-4.png"
+        ],
+        "size": ["S", "M", "L", "XL", "XXL"],
+        "product_details": [
+          {
+            "Neck_Type": "Polo Neck",
+            "Sleeve": "Half Sleeve",
+            "Fit": "Regular",
+            "Fabric": "Cotton Blend",
+            "brand": "EyeBogler"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 1,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["MUFTI", "VeBNoR"]
+      },
+      {
+        "filter_id": 6,
+        "filter_name": "fabric",
+        "filter_values": ["Lycra Blend", "Cotton Blend"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 13,
+        "product_name": "Men Slim Fit Striped Casual Shirt",
+        "product_img": "https://i.ibb.co/LJGLFMX/p13-1.png",
+        "average_rating": 3.8,
+        "rating_text": "Very Good",
+        "cost": 389,
+        "actual_price": 1299,
+        "offer": "70% Off",
+        "images": [
+          "https://i.ibb.co/LJGLFMX/p13-1.png",
+          "https://i.ibb.co/f9m1mGp/p13-2.png",
+          "https://i.ibb.co/nDftVHS/p13-3.png",
+          "https://i.ibb.co/bWnsTVp/p13-4.png"
+        ],
+        "size": ["S", "M", "XL"],
+        "product_details": [
+          {
+            "Pattern": "Striped",
+            "Sleeve": "Full Sleeve",
+            "Fit": "Slim",
+            "Fabric": "Cotton Blend",
+            "brand": "MUFTI"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 14,
+        "product_name": "Men Regular Fit Printed Spread Collar Casual Shirt",
+        "product_img": "https://i.ibb.co/mNKdPb2/p14-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Very very nice",
+        "cost": 279,
+        "actual_price": 1849,
+        "offer": "84% Off",
+        "images": [
+          "https://i.ibb.co/mNKdPb2/p14-1.png",
+          "https://i.ibb.co/d6pMqCC/p14-2.png",
+          "https://i.ibb.co/xsM0Zb8/p14-3.png",
+          "https://i.ibb.co/7yt04GV/p14-4.png"
+        ],
+        "size": ["S", "M", "L", "XL", "XXL"],
+        "product_details": [
+          {
+            "Pattern": "Printed",
+            "Sleeve": "Half Sleeve",
+            "Fit": "Regular",
+            "Fabric": "Lycra Blend",
+            "brand": "VeBNoR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 1,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["ARROW", "FIBERMILL"]
+      },
+      {
+        "filter_id": 7,
+        "filter_name": "Pattern",
+        "filter_values": ["Solid", "Checkered"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 15,
+        "product_name": "Men Regular Fit Solid Spread Collar Formal Shirt",
+        "product_img": "https://i.ibb.co/LJMSHpY/p15-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Very Good",
+        "cost": 499,
+        "actual_price": 1599,
+        "offer": "68% Off",
+        "images": [
+          "https://i.ibb.co/LJMSHpY/p15-1.png",
+          "https://i.ibb.co/D9MwfL8/p15-2.png",
+          "https://i.ibb.co/x21SsnN/p15-3.png",
+          "https://i.ibb.co/6WHKBc3/p15-4.png"
+        ],
+        "size": ["S", "M", "L", "XL", "XXL"],
+        "product_details": [
+          {
+            "Pattern": "Solid",
+            "Sleeve": "Full Sleeve",
+            "Fit": "Regular",
+            "Fabric": "Cotton Blend",
+            "brand": "FIBERMILL"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 16,
+        "product_name": "Men Slim Fit Checkered Formal Shirt",
+        "product_img": "https://i.ibb.co/kBfK7CD/p16-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Very very nice",
+        "cost": 1049,
+        "actual_price": 2499,
+        "offer": "58% Off",
+        "images": [
+          "https://i.ibb.co/kBfK7CD/p16-1.png",
+          "https://i.ibb.co/jD5dSh8/p16-2.png",
+          "https://i.ibb.co/4J7P0c7/p16-3.png",
+          "https://i.ibb.co/2vPGKdv/p16-4.png"
+        ],
+        "size": ["S", "M", "L", "XL", "XXL"],
+        "product_details": [
+          {
+            "Pattern": "Checkered",
+            "Sleeve": "Full Sleeve",
+            "Fit": "Slim",
+            "Fabric": "Cotton Blend",
+            "brand": "ARROW"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 1,
+    "productType_id": 5,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["allan peter", "MILDIN"]
+      },
+      {
+        "filter_id": 5,
+        "filter_name": "neck type",
+        "filter_values": ["Mandarin Collar", "Shirt Collar"]
+      },
+      {
+        "filter_id": 8,
+        "filter_name": "length type",
+        "filter_values": ["Hip Length", "Knee Length"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 17,
+        "product_name": "Men Solid Pure Cotton A-line Kurta  (Dark Blue)",
+        "product_img": "https://i.ibb.co/V3gX12S/p17-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Nice",
+        "cost": 453,
+        "actual_price": 1287,
+        "offer": "64% Off",
+        "images": [
+          "https://i.ibb.co/V3gX12S/p17-1.png",
+          "https://i.ibb.co/8Y7NvVj/p17-2.png",
+          "https://i.ibb.co/Km87r3w/p17-3.png",
+          "https://i.ibb.co/7XV3bKk/p17-4.png"
+        ],
+        "size": ["M", "L", "XL"],
+        "product_details": [
+          {
+            "Pattern": "Solid",
+            "Neck_Type": "Mandarin Collar",
+            "Length_Type": "Hip Length",
+            "Fabric": "pure Cotton",
+            "brand": "MILDIN"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 18,
+        "product_name": "Men Solid Cotton Blend Pathani Kurta  (Green)",
+        "product_img": "https://i.ibb.co/3csFV8c/p18-1.png",
+        "average_rating": 3.8,
+        "rating_text": "Very nice",
+        "cost": 429,
+        "actual_price": 1999,
+        "offer": "78% Off",
+        "images": [
+          "https://i.ibb.co/3csFV8c/p18-1.png",
+          "https://i.ibb.co/wSh1Rjj/p18-2.png",
+          "https://i.ibb.co/8Xqv5vn/p18-3.png",
+          "https://i.ibb.co/cNSn5YD/p18-4.png"
+        ],
+        "size": ["M", "L", "XL", "XXL"],
+        "product_details": [
+          {
+            "Pattern": "Solid",
+            "Neck_Type": "Shirt Collar",
+            "Length_Type": "Knee Length",
+            "Fabric": "Cotton Blend",
+            "brand": "allan peter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 2,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Spykar", "FLYING MACHINE"]
+      },
+      {
+        "filter_id": 6,
+        "filter_name": "fabric",
+        "filter_values": ["Cotton Blend", "Pure Cotton"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 19,
+        "product_name": "Men Slim Low Rise Blue Jeans",
+        "product_img": "https://i.ibb.co/xjTqdXz/p19-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Nice",
+        "cost": 3699,
+        "actual_price": 1287,
+        "offer": "64% Off",
+        "images": [
+          "https://i.ibb.co/xjTqdXz/p19-1.png",
+          "https://i.ibb.co/QFx2t7z/p19-2.png",
+          "https://i.ibb.co/7t79HWH/p19-3.png",
+          "https://i.ibb.co/7p7D03h/p19-4.png"
+        ],
+        "size": [30, 32, 34, 36, 38],
+        "product_details": [
+          {
+            "Suitable_For": "Western Wear",
+            "Faded": "Clean Look",
+            "Fabric": "Cotton Blend",
+            "brand": "Spykar"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 20,
+        "product_name": "Men Tapered Fit Mid Rise Blue Jeans",
+        "product_img": "https://i.ibb.co/bdp9rPr/p20-1.png",
+        "average_rating": 4,
+        "rating_text": "Great Product Quality",
+        "cost": 949,
+        "actual_price": 2499,
+        "offer": "62% Off",
+        "images": [
+          "https://i.ibb.co/bdp9rPr/p20-1.png",
+          "https://i.ibb.co/zVnXbNS/p20-2.png",
+          "https://i.ibb.co/3pyCbk5/p20-3.png",
+          "https://i.ibb.co/qd0prs6/p20-4.png"
+        ],
+        "size": [32, 34, 36],
+        "product_details": [
+          {
+            "Suitable_For": "Western Wear",
+            "Faded": "Light Fade",
+            "Fabric": "Pure Cotton",
+            "brand": "FLYING MACHINE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 2,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Blackberrys", "VAN HEUSEN"]
+      },
+      {
+        "filter_id": 6,
+        "filter_name": "fabric",
+        "filter_values": ["Cotton Blend", "Lycra Blend"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 21,
+        "product_name": "Men Slim Fit Gold Lycra Blend Trousers",
+        "product_img": "https://i.ibb.co/4sZVX1b/p21-1.png",
+        "average_rating": 3,
+        "rating_text": "Nice",
+        "cost": 499,
+        "actual_price": 2599,
+        "offer": "80% Off",
+        "images": [
+          "https://i.ibb.co/4sZVX1b/p21-1.png",
+          "https://i.ibb.co/9wsjG88/p21-2.png",
+          "https://i.ibb.co/CMCfPD3/p21-3.png",
+          "https://i.ibb.co/Lxqp8df/p21-4.png"
+        ],
+        "size": [28, 30, 32, 34, 36],
+        "product_details": [
+          {
+            "Suitable_For": "Western Wear",
+            "Fit": "Slim Fit",
+            "Fabric": "Lycra Blend",
+            "brand": "Blackberrys"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 22,
+        "product_name": "Men Slim Fit Grey Cotton Blend Trousers",
+        "product_img": "https://i.ibb.co/3m6172L/p22-1.png",
+        "average_rating": 4,
+        "rating_text": "Great Product Quality",
+        "cost": 1049,
+        "actual_price": 2499,
+        "offer": "58% Off",
+        "images": [
+          "https://i.ibb.co/3m6172L/p22-1.png",
+          "https://i.ibb.co/ypXgDzw/p22-2.png",
+          "https://i.ibb.co/7rtbv7d/p22-3.png",
+          "https://i.ibb.co/sPNsDx3/p22-4.png"
+        ],
+        "size": [30, 32, 34, 36, 38],
+        "product_details": [
+          {
+            "Suitable_For": "Western Wear",
+            "Fit": "Slim Fit",
+            "Fabric": "Cotton Blend",
+            "brand": "VAN HEUSEN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 3,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["SAARA", "Pisara"]
+      },
+      {
+        "filter_id": 6,
+        "filter_name": "fabric",
+        "filter_values": ["Pure Cotton", "Lycra Blend"]
+      },
+      {
+        "filter_id": 9,
+        "filter_name": "occasion",
+        "filter_values": ["casual", "Party & Festive"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 23,
+        "product_name": "Paisley, Woven, Embellished Bollywood Lycra Blend Saree  (Light Blue)",
+        "product_img": "https://i.ibb.co/0h354B0/p23-1.png",
+        "average_rating": 3.1,
+        "rating_text": "Nice",
+        "cost": 499,
+        "actual_price": 2997,
+        "offer": "83% Off",
+        "images": [
+          "https://i.ibb.co/0h354B0/p23-1.png",
+          "https://i.ibb.co/1XtnkhL/p23-2.png",
+          "https://i.ibb.co/6yvwhmH/p23-3.png",
+          "https://i.ibb.co/w4zq6KM/p23-4.png"
+        ],
+        "product_details": [
+          {
+            "Pattern": "Paisley, Woven, Embellished",
+            "Occasion": "Party & Festive",
+            "Fabric": "Lycra Blend",
+            "brand": "SAARA"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 24,
+        "product_name": "Blocked Printed, Floral Print Daily Wear Pure Cotton Saree  (Blue)",
+        "product_img": "https://i.ibb.co/28wqfVd/p24-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Great Product Quality",
+        "cost": 584,
+        "actual_price": 2499,
+        "offer": "76% Off",
+        "images": [
+          "https://i.ibb.co/28wqfVd/p24-1.png",
+          "https://i.ibb.co/cF7q02T/p24-2.png",
+          "https://i.ibb.co/58BRcCJ/p24-3.png",
+          "https://i.ibb.co/JdbVMt4/p24-4.png"
+        ],
+        "product_details": [
+          {
+            "Pattern": "Blocked Printed, Floral Print",
+            "Occasion": "Casual",
+            "Fabric": "Pure Cotton",
+            "brand": "Pisara"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 3,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Aurelia", "VredeVogel"]
+      },
+      {
+        "filter_id": 6,
+        "filter_name": "fabric",
+        "filter_values": ["Viscose Rayon", "Silk Blend"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 25,
+        "product_name": "Women Top and Dhoti Pant Set Viscose Rayon",
+        "product_img": "https://i.ibb.co/CQkp9qn/p25-1.png",
+        "average_rating": 3.8,
+        "rating_text": "Awesome",
+        "cost": 599,
+        "actual_price": 1999,
+        "offer": "70% Off",
+        "size": ["XS", "S", "M", "L", "XL", "XXL"],
+        "images": [
+          "https://i.ibb.co/CQkp9qn/p25-1.png",
+          "https://i.ibb.co/3BPGYgc/p25-2.png",
+          "https://i.ibb.co/D10dz28/p25-3.png",
+          "https://i.ibb.co/tD0tb36/p25-4.png"
+        ],
+        "product_details": [
+          {
+            "Pattern": "Self Design",
+            "Bottom_Type": "Dhoti",
+            "Fabric": "Viscose Rayon",
+            "brand": "Aurelia"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 26,
+        "product_name": "Women Kurta, Pant And Dupatta Set Silk Blend",
+        "product_img": "https://i.ibb.co/C7pYyw5/p26-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Great Product Quality",
+        "cost": 799,
+        "actual_price": 4599,
+        "offer": "82% Off",
+        "size": ["S", "M", "L", "XL", "XXL"],
+        "images": [
+          "https://i.ibb.co/C7pYyw5/p26-1.png",
+          "https://i.ibb.co/YTmrL6g/p26-2.png",
+          "https://i.ibb.co/TWsNT8w/p26-3.png",
+          "https://i.ibb.co/wJ1wRhT/p26-4.png"
+        ],
+        "product_details": [
+          {
+            "Pattern": "Embroidered",
+            "Bottom_Type": "Pant",
+            "Fabric": "Silk Blend",
+            "brand": "VredeVogel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 3,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["anara", "Zinariya Fab"]
+      },
+      {
+        "filter_id": 6,
+        "filter_name": "fabric",
+        "filter_values": ["Art Silk", "Georgette"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 27,
+        "product_name": "Floral Print Semi Stitched Lehenga Choli  (Green)",
+        "product_img": "https://i.ibb.co/hWngggS/p27-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Nice one",
+        "cost": 486,
+        "actual_price": 2099,
+        "offer": "76% Off",
+        "size": ["S", "M", "L", "XL"],
+        "images": [
+          "https://i.ibb.co/hWngggS/p27-1.png",
+          "https://i.ibb.co/5YTQ4QZ/p27-2.png",
+          "https://i.ibb.co/wYQZr9z/p27-3.png",
+          "https://i.ibb.co/QKnfykb/p27-4.png"
+        ],
+        "product_details": [
+          {
+            "Occasion": "Party & Festive",
+            "Sleeve": "Sleevless",
+            "Fabric": "Art Silk",
+            "Dupatta_Fabric": "Net",
+            "brand": "Zinariya Fab"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 28,
+        "product_name": "Embroidered Semi Stitched Lehenga Choli  (Green)",
+        "product_img": "https://i.ibb.co/v3KrxSQ/p28-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Very beautiful",
+        "cost": 960,
+        "actual_price": 3699,
+        "offer": "74% Off",
+        "size": ["M", "L", "XL"],
+        "images": [
+          "https://i.ibb.co/v3KrxSQ/p28-1.png",
+          "https://i.ibb.co/KF5ZhWL/p28-2.png",
+          "https://i.ibb.co/zVCL35B/p28-3.png",
+          "https://i.ibb.co/BqYZfzQ/p28-4.png"
+        ],
+        "product_details": [
+          {
+            "Occasion": "Party & Festive",
+            "Sleeve": "Sleevless",
+            "Fabric": "Georgette",
+            "Dupatta_Fabric": "Georgette",
+            "brand": "anara"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 4,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["asian", "CAMPUS"]
+      },
+      {
+        "filter_id": 10,
+        "filter_name": "Closure",
+        "filter_values": ["Lace-Ups", "Slip-On"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 29,
+        "product_name": "MIKE (N) Running Shoes For Men  (Grey)",
+        "product_img": "https://i.ibb.co/ZJdcCjR/p29-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Excellent shoes, comfortable,",
+        "cost": 993,
+        "actual_price": 1699,
+        "offer": "41% Off",
+        "size": [6, 7, 8, 9, 10],
+        "images": [
+          "https://i.ibb.co/ZJdcCjR/p29-1.png",
+          "https://i.ibb.co/xzKkrcB/p29-2.png",
+          "https://i.ibb.co/QJLPmXZ/p29-3.png",
+          "https://i.ibb.co/19bJBB4/p29-4.png"
+        ],
+        "product_details": [
+          {
+            "Outer_Material": "Mesh",
+            "Occasion": "Sports",
+            "Sole_material": "Phylon",
+            "Closure": "Lace-Ups",
+            "brand": "CAMPUS"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 30,
+        "product_name": "Wind-04 Navy Sports, Gym, Training, Running, Trendy Walking Shoes For Men  (Navy, Blue)",
+        "product_img": "https://i.ibb.co/wB9D3FY/p30-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Very nice",
+        "cost": 596,
+        "actual_price": 1299,
+        "offer": "56% Off",
+        "size": [6, 7, 8, 9, 10],
+        "images": [
+          "https://i.ibb.co/wB9D3FY/p30-1.png",
+          "https://i.ibb.co/51JCfQc/p30-2.png",
+          "https://i.ibb.co/r3XD0DL/p30-3.png",
+          "https://i.ibb.co/jbsh2RW/p30-4.png"
+        ],
+        "product_details": [
+          {
+            "Outer_Material": "Mesh",
+            "Occasion": "Sports",
+            "Sole_material": "Eva",
+            "Closure": "Slip-On",
+            "brand": "asian"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 4,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["HOTSTYLE", "AJANTA"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Black", "Brown"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 31,
+        "product_name": "Stylish Good Looking Casual Loafers Loafers For Men  (Brown)",
+        "product_img": "https://i.ibb.co/bX2n13w/p31-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Excellent",
+        "cost": 498,
+        "actual_price": 999,
+        "offer": "50% Off",
+        "size": [6, 7, 8, 9, 10],
+        "images": [
+          "https://i.ibb.co/bX2n13w/p31-1.png",
+          "https://i.ibb.co/7pdqnVF/p31-2.png",
+          "https://i.ibb.co/6nXjHWC/p31-3.png",
+          "https://i.ibb.co/1MWdftf/p31-4.png"
+        ],
+        "product_details": [
+          {
+            "Outer_Material": "Synthetic Leather",
+            "Occasion": "Casual",
+            "Color": "Brown",
+            "brand": "AJANTA"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 32,
+        "product_name": "Synthetic Leather |Lightweight|Comfort|Summer|Trendy|Walking|Outdoor|Daily Use Boots For Men  (Black)",
+        "product_img": "https://i.ibb.co/RgZ28qL/p32-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Very nice",
+        "cost": 543,
+        "actual_price": 999,
+        "offer": "45% Off",
+        "size": [6, 7, 8, 9, 10],
+        "images": [
+          "https://i.ibb.co/RgZ28qL/p32-1.png",
+          "https://i.ibb.co/3pL7nG3/p32-2.png",
+          "https://i.ibb.co/p1vFjNV/p32-3.png",
+          "https://i.ibb.co/4smcNky/p32-4.png"
+        ],
+        "product_details": [
+          {
+            "Outer_Material": "Synthetic Leather",
+            "Occasion": "Casual",
+            "Color": "Black",
+            "brand": "HOTSTYLE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 5,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["ladies hub", "VENDOZ"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Off white", "Pink"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 33,
+        "product_name": "Women Off White Flats Sandal",
+        "product_img": "https://i.ibb.co/HP0jzXt/p33-1.png",
+        "average_rating": 4,
+        "rating_text": "Excellent",
+        "cost": 499,
+        "actual_price": 999,
+        "offer": "50% Off",
+        "size": [3, 4, 5, 6, 7, 8],
+        "images": [
+          "https://i.ibb.co/HP0jzXt/p33-1.png",
+          "https://i.ibb.co/9wW90Xb/p33-2.png",
+          "https://i.ibb.co/YkBf4tX/p33-3.png",
+          "https://i.ibb.co/y4Rd3dJ/p33-4.png"
+        ],
+        "product_details": [
+          {
+            "Type": "Flats",
+            "Sole_Material": "Airmax",
+            "Color": "Off white",
+            "brand": "VENDOZ"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 34,
+        "product_name": "Women Pink Flats Sandal",
+        "product_img": "https://i.ibb.co/v461p68/p34-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Very nice",
+        "cost": 525,
+        "actual_price": 1799,
+        "offer": "70% Off",
+        "size": [4, 5, 6, 7, 8],
+        "images": [
+          "https://i.ibb.co/v461p68/p34-1.png",
+          "https://i.ibb.co/0DCdFZ1/p34-2.png",
+          "https://i.ibb.co/jMtKNRC/p34-3.png",
+          "https://i.ibb.co/tm5D6ZQ/p34-4.png"
+        ],
+        "product_details": [
+          {
+            "Type": "Flats",
+            "Sole_Material": "TPR",
+            "Color": "Pink",
+            "brand": "ladies hub"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 5,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Denill", "Digni"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Silver", "Brown"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 35,
+        "product_name": "Women Silver Heels Sandal",
+        "product_img": "https://i.ibb.co/W26NPZZ/P35-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Excellent",
+        "cost": 509,
+        "actual_price": 1999,
+        "offer": "74% Off",
+        "size": [2, 3, 4, 5, 6, 7],
+        "images": [
+          "https://i.ibb.co/W26NPZZ/P35-1.png",
+          "https://i.ibb.co/GQwJk1Q/P35-2.png",
+          "https://i.ibb.co/s1yFnJf/P35-3.png",
+          "https://i.ibb.co/64BQyVx/P35-4.png"
+        ],
+        "product_details": [
+          {
+            "Type": "Heels",
+            "Type_for_Heels": "Block Heel",
+            "Color": "Silver",
+            "brand": "Digni"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 36,
+        "product_name": "Women Brown Heels Sandal",
+        "product_img": "https://i.ibb.co/HB4BrD7/P36-1.png",
+        "average_rating": 4,
+        "rating_text": "Very nice",
+        "cost": 499,
+        "actual_price": 1499,
+        "offer": "66% Off",
+        "size": [3, 4, 5, 6, 7, 8],
+        "images": [
+          "https://i.ibb.co/HB4BrD7/P36-1.png",
+          "https://i.ibb.co/prqfkF8/P36-2.png",
+          "https://i.ibb.co/v3h7wYt/P36-3.png",
+          "https://i.ibb.co/6PMJn3y/P36-4.png"
+        ],
+        "product_details": [
+          {
+            "Type": "Heels",
+            "Type_for_Heels": "Block Heel",
+            "Color": "Brown",
+            "brand": "Denill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 5,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["asian", "asian Elasto"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Pink", "Navy-Maroon"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 37,
+        "product_name": "Cute sports shoes for women",
+        "product_img": "https://i.ibb.co/HhFmcj1/p37-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Amazing",
+        "cost": 488,
+        "actual_price": 799,
+        "offer": "38% Off",
+        "size": [5, 6, 7, 8],
+        "images": [
+          "https://i.ibb.co/HhFmcj1/p37-1.png",
+          "https://i.ibb.co/kMhB6fW/p37-2.png",
+          "https://i.ibb.co/HYJXSJx/p37-3.png",
+          "https://i.ibb.co/R64xdrv/p37-4.png"
+        ],
+        "product_details": [
+          {
+            "Type": "Sports Shoes",
+            "Color": "Pink",
+            "Outer_material": "Mesh",
+            "brand": "asian"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 38,
+        "product_name": "Elasto-02 sports shoes for women",
+        "product_img": "https://i.ibb.co/gJS7CbY/p38-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Very nice",
+        "cost": 649,
+        "actual_price": 1499,
+        "offer": "56% Off",
+        "size": [4, 5, 6, 7, 8],
+        "images": [
+          "https://i.ibb.co/gJS7CbY/p38-1.png",
+          "https://i.ibb.co/jTm3d2w/p38-2.png",
+          "https://i.ibb.co/ByBgkTz/p38-3.png",
+          "https://i.ibb.co/G2QLCMp/p38-4.png"
+        ],
+        "product_details": [
+          {
+            "Type": "Sports Shoes",
+            "Color": "Navy-Maroon",
+            "Outer_material": "Fabric",
+            "brand": "asian Elasto"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 6,
+    "productType_id": 1,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Fastrack", "LOIS CARON", "TIMEX", "VAN HEUSEN"]
+      },
+      {
+        "filter_id": 11,
+        "filter_name": "Ideal For",
+        "filter_values": ["Men", "Women"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 39,
+        "product_name": "Minimalists Analog Watch - For Men",
+        "product_img": "https://i.ibb.co/PrFZ0gt/p39-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Amazing product",
+        "cost": 722,
+        "actual_price": 805,
+        "offer": "19% Off",
+        "images": [
+          "https://i.ibb.co/PrFZ0gt/p39-1.png",
+          "https://i.ibb.co/vLr6S7x/p39-2.png",
+          "https://i.ibb.co/Ksp8HPZ/p39-3.png",
+          "https://i.ibb.co/7Y3hYqX/p39-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Men",
+            "Occasion": "Casual",
+            "brand": "Fastrack ",
+            "Watch_Type": "Wrist Watch"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 40,
+        "product_name": "Trending Day & Date Functioning for Boys Analog Watch - For Men",
+        "product_img": "https://i.ibb.co/SybZCX8/p40-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Very nice",
+        "cost": 299,
+        "actual_price": 1709,
+        "offer": "83% Off",
+        "images": [
+          "https://i.ibb.co/SybZCX8/p40-1.png",
+          "https://i.ibb.co/tbYs4yT/p40-2.png",
+          "https://i.ibb.co/MRs40SR/p40-3.png",
+          "https://i.ibb.co/9g30fcc/p40-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Men",
+            "Occasion": "Casual",
+            "brand": "LOIS CARON",
+            "Watch_Type": "Wrist Watch"
+          }
+        ]
+      },
+      {
+        "product_id": 3,
+        "item_id": 41,
+        "product_name": "Analog Watch - For Women ",
+        "product_img": "https://i.ibb.co/QQT1Pdg/p41-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Very nice product",
+        "cost": 519,
+        "actual_price": 1299,
+        "offer": "60% Off",
+        "images": [
+          "https://i.ibb.co/QQT1Pdg/p41-1.png",
+          "https://i.ibb.co/N69qYr5/p41-2.png",
+          "https://i.ibb.co/f0Rp0q3/p41-3.png",
+          "https://i.ibb.co/YXZrf6C/p41-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Women",
+            "Occasion": "Formal",
+            "brand": "TIMEX",
+            "Watch_Type": "Wrist Watch"
+          }
+        ]
+      },
+      {
+        "product_id": 4,
+        "item_id": 42,
+        "product_name": "Analog Watch - For Women",
+        "product_img": "https://i.ibb.co/wS43TBs/p42-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Amazing",
+        "cost": 1658,
+        "actual_price": 2999,
+        "offer": "44% Off",
+        "images": [
+          "https://i.ibb.co/wS43TBs/p42-1.png",
+          "https://i.ibb.co/Kq57hsS/p42-2.png",
+          "https://i.ibb.co/B6BHcgz/p42-3.png",
+          "https://i.ibb.co/bLxH7Pd/p42-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Women",
+            "Occasion": "Party-Wedding",
+            "brand": "VAN HEUSEN",
+            "Watch_Type": "Wrist Watch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 6,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["SAMTROH", "napa hide"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Beige", "Green"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 43,
+        "product_name": "Men Casual Beige Artificial Leather Wallet - Regular Size  (4 Card Slots)",
+        "product_img": "https://i.ibb.co/HPMzBFJ/p43-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Awesome",
+        "cost": 261,
+        "actual_price": 999,
+        "offer": "73% Off",
+        "images": [
+          "https://i.ibb.co/HPMzBFJ/p43-1.png",
+          "https://i.ibb.co/mB44jJM/p43-2.png",
+          "https://i.ibb.co/dDDpfK8/p43-3.png",
+          "https://i.ibb.co/ZG0YDk5/p43-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Men",
+            "Color": "Beige",
+            "brand": "SAMTROH",
+            "Material": "Artificial Leather"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 44,
+        "product_name": "Men Casual Green Genuine Leather RFID Wallet - Regular Size  (10 Card Slots)",
+        "product_img": "https://i.ibb.co/jDf4RtX/p44-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Very nice",
+        "cost": 499,
+        "actual_price": 1499,
+        "offer": "66% Off",
+        "images": [
+          "https://i.ibb.co/jDf4RtX/p44-1.png",
+          "https://i.ibb.co/TKr9thp/p44-2.png",
+          "https://i.ibb.co/FBV4gZT/p44-3.png",
+          "https://i.ibb.co/vLjWvMh/p44-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Men",
+            "Color": "Green",
+            "brand": "napa hide",
+            "Material": "Genuine Leather"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 6,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Devora", "ROFARWORD", "Vembley"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Gold", "Silver", "Purple"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 45,
+        "product_name": "King & Queen lovers valentine couple Adjustable propose ring for girlfriend Stainless Steel Zircon Sterling Silver Plated Ring Set",
+        "product_img": "https://i.ibb.co/PQvXBTj/p45-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Nice product",
+        "cost": 194,
+        "actual_price": 1499,
+        "offer": "87% Off",
+        "images": [
+          "https://i.ibb.co/PQvXBTj/p45-1.png",
+          "https://i.ibb.co/RCdGY8S/p45-2.png",
+          "https://i.ibb.co/Z1GMy9H/p45-3.png",
+          "https://i.ibb.co/cCZqQtC/p45-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Boys, Men, Women, Girls",
+            "Color": "Silver",
+            "brand": "Devora",
+            "Type": "Ring Set"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 46,
+        "product_name": "Brass, Copper Gold-plated Gold Jewel Set  (Pack of 1)",
+        "product_img": "https://i.ibb.co/VtV5s1d/p46-1.png",
+        "average_rating": 4,
+        "rating_text": "Very good product",
+        "cost": 262,
+        "actual_price": 2499,
+        "offer": "89% Off",
+        "images": [
+          "https://i.ibb.co/VtV5s1d/p46-1.png",
+          "https://i.ibb.co/kKKgJBP/p46-2.png",
+          "https://i.ibb.co/4ZS0Df9/p46-3.png",
+          "https://i.ibb.co/yNYvxvz/p46-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Women, Girls",
+            "Color": "Gold",
+            "brand": "ROFARWORD ",
+            "Type": "Earring & Necklace Set"
+          }
+        ]
+      },
+      {
+        "product_id": 1,
+        "item_id": 47,
+        "product_name": "Combo 9 Pair Stunning Gold Plated Pearl Hoop Earrings Alloy Hoop Earring",
+        "product_img": "https://i.ibb.co/30rRG15/p47-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Nice product",
+        "cost": 245,
+        "actual_price": 1499,
+        "offer": "83% Off",
+        "images": [
+          "https://i.ibb.co/30rRG15/p47-1.png",
+          "https://i.ibb.co/HH3ty55/p47-2.png",
+          "https://i.ibb.co/vzBRtg7/p47-3.png",
+          "https://i.ibb.co/n8btkXq/p47-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Women, Girls",
+            "Color": "Gold",
+            "brand": "Vembley",
+            "Type": "Hoop Earring"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 48,
+        "product_name": "Charming Gold Plated Purple Crystal Butterfly Pendant Necklace For women Gold-plated Plated Alloy Chain",
+        "product_img": "https://i.ibb.co/MPP8FYt/p48-1.png",
+        "average_rating": 3.8,
+        "rating_text": "Very good product",
+        "cost": 188,
+        "actual_price": 999,
+        "offer": "81% Off",
+        "images": [
+          "https://i.ibb.co/MPP8FYt/p48-1.png",
+          "https://i.ibb.co/b1Cy5Ys/p48-2.png",
+          "https://i.ibb.co/7Wmxyrp/p48-3.png",
+          "https://i.ibb.co/rGLGLf3/p48-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Women, Girls",
+            "Color": "Purple",
+            "brand": "Vembley",
+            "Type": "Chain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 6,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Snappy", "LAVIE"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Maroon", "Green"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 49,
+        "product_name": "Women Maroon Shoulder Bag - Regular Size",
+        "product_img": "https://i.ibb.co/LQmPqSj/p49-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Awesome",
+        "cost": 460,
+        "actual_price": 1999,
+        "offer": "76% Off",
+        "images": [
+          "https://i.ibb.co/LQmPqSj/p49-1.png",
+          "https://i.ibb.co/KhrsRnk/p49-2.png",
+          "https://i.ibb.co/QkwbXM5/p49-3.png",
+          "https://i.ibb.co/gmw7hJh/p49-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Women",
+            "Color": "Maroon",
+            "brand": "Snappy",
+            "Material": "PU",
+            "Type": "Top Design Shoulder bags"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 50,
+        "product_name": "Women Green Satchel - Mini",
+        "product_img": "https://i.ibb.co/jZxtt5B/p50-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Very nice",
+        "cost": 1579,
+        "actual_price": 4799,
+        "offer": "67% Off",
+        "images": [
+          "https://i.ibb.co/jZxtt5B/p50-1.png",
+          "https://i.ibb.co/RQ9N4wQ/p50-2.png",
+          "https://i.ibb.co/s1W2wPG/p50-3.png",
+          "https://i.ibb.co/r069fhV/p50-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Women",
+            "Color": "Green",
+            "brand": "LAVIE",
+            "Material": "Synthetic Leather",
+            "Type": "Top Design Shoulder bags"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 7,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Fashion Dream", "Manaitri"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Dark Green", "Grey"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 51,
+        "product_name": "Girls Calf Length Party Dress  (Dark Green, Short Sleeve)",
+        "product_img": "https://i.ibb.co/L1vnLzY/p51-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Awesome",
+        "cost": 599,
+        "actual_price": 2499,
+        "offer": "77% Off",
+        "size": [
+          "3-4 Years",
+          "5-6 Years",
+          "7-8 Years",
+          "9-10 Years",
+          "11-12 Years",
+          "13-14 Years"
+        ],
+        "images": [
+          "https://i.ibb.co/L1vnLzY/p51-1.png",
+          "https://i.ibb.co/gt4JtyF/p51-2.png",
+          "https://i.ibb.co/DQszzK6/p51-3.png",
+          "https://i.ibb.co/ykdzNLz/p51-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Girls",
+            "Color": "Dark Green",
+            "brand": "Fashion Dream",
+            "Fabric": "Georgette",
+            "Type": "Fit and Flare Dress"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 52,
+        "product_name": "Baby Girls Midi/Knee Length Festive/Wedding Dress  (Grey, Short Sleeve)",
+        "product_img": "https://i.ibb.co/4KjRvTH/p52-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Very nice",
+        "cost": 399,
+        "actual_price": 1499,
+        "offer": "73% Off",
+        "size": [
+          "2-3 Years",
+          "3-4 Years",
+          "4-5 Years",
+          "5-6 Years",
+          "6-7 Years"
+        ],
+        "images": [
+          "https://i.ibb.co/4KjRvTH/p52-1.png",
+          "https://i.ibb.co/Nrfy4Gh/p52-2.png",
+          "https://i.ibb.co/84HbZfT/p52-3.png",
+          "https://i.ibb.co/txL9k1f/p52-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Baby Girls",
+            "Color": "Grey",
+            "brand": "Manaitri",
+            "Fabric": "Cotton Blend",
+            "Type": "Net Frock"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 7,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["AJ Dezines", "Bright Garments Dresses"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Blue", "Grey"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 53,
+        "product_name": "Boys Festive & Party, Wedding Sherwani and Churidar Set  (Grey Pack of 1)",
+        "product_img": "https://i.ibb.co/8mXw2bs/p53-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Awesome",
+        "cost": 825,
+        "actual_price": 2999,
+        "offer": "72% Off",
+        "size": [
+          "2-3 Years",
+          "3-4 Years",
+          "5-6 Years",
+          "7-8 Years",
+          "9-10 Years",
+          "11-12 Years"
+        ],
+        "images": [
+          "https://i.ibb.co/8mXw2bs/p53-1.png",
+          "https://i.ibb.co/YPk1pFM/p53-2.png",
+          "https://i.ibb.co/ZN5m6HN/p53-3.png",
+          "https://i.ibb.co/M5vNx1L/p53-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Boys",
+            "Color": "Grey",
+            "brand": "AJ Dezines",
+            "Fabric": "Shewani Fabric- Silk Blend, Bottom Fabric-Raw Silk",
+            "Type": "Sherwani and Churidar Set"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 54,
+        "product_name": "Boys Festive & Party, Wedding Kurta, Waistcoat and Pyjama Set  (Blue Pack of 1)",
+        "product_img": "https://i.ibb.co/ThPXVrs/p54-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Very nice",
+        "cost": 453,
+        "actual_price": 999,
+        "offer": "54% Off",
+        "size": [
+          "2-3 Years",
+          "3-4 Years",
+          "4-5 Years",
+          "5-6 Years",
+          "6-7 Years",
+          "8-9 Years"
+        ],
+        "images": [
+          "https://i.ibb.co/ThPXVrs/p54-1.png",
+          "https://i.ibb.co/68BnNX1/p54-2.png",
+          "https://i.ibb.co/RCLGjG2/p54-3.png",
+          "https://i.ibb.co/jzhhL6f/p54-4.png"
+        ],
+        "product_details": [
+          {
+            "Ideal_for": "Boys",
+            "Color": "Blue",
+            "brand": "Bright Garments Dresses",
+            "Fabric": "Silk Blend",
+            "Type": "Kurta, Waistcoat and Pyjama Set"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 1,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["boAt", "Mi", "SAMSUNG", "Skullcandy"]
+      },
+      {
+        "filter_id": 12,
+        "filter_name": "Connectivity",
+        "filter_values": ["Bluetooth", "Wired"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 55,
+        "product_name": "boAt Airdopes 161 with ASAP Charge, 10mm Drivers and 17 Hours Playback Bluetooth Headset  (Pebble Black, True Wireless)",
+        "product_img": "https://i.ibb.co/KmFJxGm/p55-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Awesome",
+        "cost": 999,
+        "actual_price": 2490,
+        "offer": "59% Off",
+        "images": [
+          "https://i.ibb.co/KmFJxGm/p55-1.png",
+          "https://i.ibb.co/Ms1X2VV/p55-2.png",
+          "https://i.ibb.co/9Hh6v04/p55-3.png",
+          "https://i.ibb.co/QHJpz9B/p55-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Pebble Black",
+            "brand": "boAt",
+            "Connectivity": "Bluetooth",
+            "Type": "True Wireless",
+            "Design": "Earbud"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 56,
+        "product_name": "Mi Basic Wired Headset with Mic  (Black, In the Ear)",
+        "product_img": "https://i.ibb.co/10qT7wk/p56-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Very nice",
+        "cost": 429,
+        "actual_price": 599,
+        "offer": "28% Off",
+        "images": [
+          "https://i.ibb.co/10qT7wk/p56-1.png",
+          "https://i.ibb.co/qggF2Rv/p56-2.png",
+          "https://i.ibb.co/DMWdBWb/p56-3.png",
+          "https://i.ibb.co/84LmqBY/p56-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "Mi",
+            "Connectivity": "Wired",
+            "Type": "In the Ear",
+            "Design": "Earbud"
+          }
+        ]
+      },
+      {
+        "product_id": 3,
+        "item_id": 57,
+        "product_name": "SAMSUNG Level U Bluetooth Headset  (Blue, In the Ear)",
+        "product_img": "https://i.ibb.co/ZzR0GCC/p57-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Simply awesome",
+        "cost": 2050,
+        "actual_price": 2999,
+        "offer": "31% Off",
+        "images": [
+          "https://i.ibb.co/ZzR0GCC/p57-1.png",
+          "https://i.ibb.co/jbyd6JQ/p57-2.png",
+          "https://i.ibb.co/XZpwDTD/p57-3.png",
+          "https://i.ibb.co/k4CVdt7/p57-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Blue",
+            "brand": "SAMSUNG",
+            "Connectivity": "Bluetooth",
+            "Type": "In the Ear",
+            "Design": "Earbud"
+          }
+        ]
+      },
+      {
+        "product_id": 4,
+        "item_id": 58,
+        "product_name": "Skullcandy Crusher Evo Bluetooth Headset  (Black, On the Ear)",
+        "product_img": "https://i.ibb.co/SrVK84r/p58-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Very nice",
+        "cost": 15499,
+        "actual_price": 27999,
+        "offer": "44% Off",
+        "images": [
+          "https://i.ibb.co/SrVK84r/p58-1.png",
+          "https://i.ibb.co/2yD17pB/p58-2.png",
+          "https://i.ibb.co/YB6tJ9m/p58-3.png",
+          "https://i.ibb.co/4fV7pL2/p58-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "Skullcandy",
+            "Connectivity": "Bluetooth",
+            "Type": "On the Ear",
+            "Design": "Over the Head"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 1,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["boAt", "Mivi"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 59,
+        "product_name": "boAt Stone 350 Type-c Charging 10 W Bluetooth Speaker  (Black, Mono Channel)",
+        "product_img": "https://i.ibb.co/4Fs6RC6/p59-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Awesome",
+        "cost": 1399,
+        "actual_price": 3490,
+        "offer": "59% Off",
+        "images": [
+          "https://i.ibb.co/4Fs6RC6/p59-1.png",
+          "https://i.ibb.co/KhfjZX8/p59-2.png",
+          "https://i.ibb.co/D1cvG6F/p59-3.png",
+          "https://i.ibb.co/LS3Nfg9/p59-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "boAt",
+            "Connectivity": "Bluetooth",
+            "Type": "Mobile/Tablet Speaker",
+            "Wired/Wireless": "Wired & Wireless"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 60,
+        "product_name": "Mivi Play 5 W Portable Bluetooth Speaker  (Black, Mono Channel)",
+        "product_img": "https://i.ibb.co/k2hBJL1/p60-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Awesome",
+        "cost": 799,
+        "actual_price": 1999,
+        "offer": "60% Off",
+        "images": [
+          "https://i.ibb.co/k2hBJL1/p60-1.png",
+          "https://i.ibb.co/YZ3BQxW/p60-2.png",
+          "https://i.ibb.co/mvMRQyX/p60-3.png",
+          "https://i.ibb.co/r0SFgC0/p60-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "Mivi",
+            "Connectivity": "Bluetooth",
+            "Type": "Mobile/Tablet Speaker",
+            "Wired/Wireless": "Wireless"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 2,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Canon", "OLYMPUS"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Black", "Silver"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 61,
+        "product_name": "Canon EOS 1500D DSLR Camera Body+ 18-55 mm IS II Lens  (Black)",
+        "product_img": "https://i.ibb.co/RNnvqJ1/p61-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Awesome",
+        "cost": 39989,
+        "actual_price": 47995,
+        "offer": "16% Off",
+        "images": [
+          "https://i.ibb.co/RNnvqJ1/p61-1.png",
+          "https://i.ibb.co/7XfYwqX/p61-2.png",
+          "https://i.ibb.co/t27nM2K/p61-3.png",
+          "https://i.ibb.co/L5tzN7m/p61-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "Canon",
+            "Type": "DSLR",
+            "SLR_Variant": "Body+ 18-55 mm IS II Lens"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 62,
+        "product_name": "OLYMPUS E-M10M3S_1442E DSLR Camera Camera  (Silver)",
+        "product_img": "https://i.ibb.co/hYpnzC0/p62-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Awesome",
+        "cost": 65991,
+        "actual_price": 74990,
+        "offer": "12% Off",
+        "images": [
+          "https://i.ibb.co/hYpnzC0/p62-1.png",
+          "https://i.ibb.co/L0Zr0nt/p62-2.png",
+          "https://i.ibb.co/wBCtvNF/p62-3.png",
+          "https://i.ibb.co/27LvJXJ/p62-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Silver",
+            "brand": "OLYMPUS",
+            "Type": "DSLR",
+            "SLR_Variant": "Camera"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 2,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Canon", "SONY"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 63,
+        "product_name": "Canon EF 50 mm f/1.8 STM Standard Prime Lens  (Black, 50 mm)",
+        "product_img": "https://i.ibb.co/T0VqbT6/p63-1.png",
+        "average_rating": 4.6,
+        "rating_text": "Nice one",
+        "cost": 10490,
+        "actual_price": 10995,
+        "offer": "4% Off",
+        "images": [
+          "https://i.ibb.co/T0VqbT6/p63-1.png",
+          "https://i.ibb.co/xqsGvwt/p63-2.png",
+          "https://i.ibb.co/wdBQZgS/p63-3.png",
+          "https://i.ibb.co/qJdPSVQ/p63-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "Canon",
+            "Lens_Type": "Standard",
+            "Type": "Prime"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 64,
+        "product_name": "SONY SEL50F18F Standard Prime Lens  (Black, 50 mm)",
+        "product_img": "https://i.ibb.co/c68RbQB/p64-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost": 19130,
+        "actual_price": 21999,
+        "offer": "13% Off",
+        "images": [
+          "https://i.ibb.co/c68RbQB/p64-1.png",
+          "https://i.ibb.co/vvpQNyt/p64-2.png",
+          "https://i.ibb.co/PNcYxjk/p64-3.png",
+          "https://i.ibb.co/nCdTfFC/p64-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "SONY",
+            "Lens_Type": "Standard",
+            "Type": "Prime"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 2,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Wembley Toys", "AKSHAT"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 65,
+        "product_name": "Wembley Toys Mavic Pro Drone Altitude Hold Function 2.4Ghz with LED Lights, 360° Reversion with Remote Control Device Drone",
+        "product_img": "https://i.ibb.co/q9ty9XH/p65-1.png",
+        "average_rating": 3.1,
+        "rating_text": "Nice one",
+        "cost": 3190,
+        "actual_price": 3749,
+        "offer": "4% Off",
+        "images": [
+          "https://i.ibb.co/q9ty9XH/p65-1.png",
+          "https://i.ibb.co/yy06TWH/p65-2.png",
+          "https://i.ibb.co/bRngGQZ/p65-3.png",
+          "https://i.ibb.co/dKzysRZ/p65-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "Wembley Toys",
+            "Functions": "360 flip stunt, forward, backward, up, down, left, right, headless mode",
+            "Type": "Mini Drone"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 66,
+        "product_name": "AKSHAT HX750 Drone Remote Control Quadcopter Without Camera for Kids Drone",
+        "product_img": "https://i.ibb.co/KbFHDhH/p66-1.png",
+        "average_rating": 3.3,
+        "rating_text": "Very Good",
+        "cost": 2593,
+        "actual_price": 2852,
+        "offer": "10% Off",
+        "images": [
+          "https://i.ibb.co/KbFHDhH/p66-1.png",
+          "https://i.ibb.co/D1cVVN7/p66-2.png",
+          "https://i.ibb.co/Gx5X0Vt/p66-3.png",
+          "https://i.ibb.co/T1pGZXq/p66-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "AKSHAT",
+            "Functions": "360° Roll-Over: The simple flying of WSAD is too boring, and the new 3D rolling special effects surprise all the people., 360 Degree Spins and Flips: Forward, Backward,Turn Left, Turn Right, 360 degree tumbling flipping.",
+            "Type": "Mini Drone"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 3,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Canon", "HP"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Black", "White"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 67,
+        "product_name": "Canon G2770 Multi-function Color Inkjet Printer with Black (135 ml) & Color (70 ml) ink bottles  (Black, Ink Tank, 4 Ink Bottles Included)",
+        "product_img": "https://i.ibb.co/g92tXS2/p67-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Nice one",
+        "cost": 13649,
+        "actual_price": 15840,
+        "offer": "13% Off",
+        "images": [
+          "https://i.ibb.co/g92tXS2/p67-1.png",
+          "https://i.ibb.co/VDj29YH/p67-2.png",
+          "https://i.ibb.co/r2sCw3S/p67-3.png",
+          "https://i.ibb.co/PGZ3qkz/p67-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "Canon",
+            "Printing_Method": "Inkjet",
+            "Type": "Multi-function"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 68,
+        "product_name": "HP Laser 108 w Single Function WiFi Monochrome Laser Printer  (White, Grey, Toner Cartridge)",
+        "product_img": "https://i.ibb.co/f2GcZtY/p68-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": 12599,
+        "actual_price": 14366,
+        "offer": "12% Off",
+        "images": [
+          "https://i.ibb.co/f2GcZtY/p68-1.png",
+          "https://i.ibb.co/s1gMQ13/p68-2.png",
+          "https://i.ibb.co/LJWJct2/p68-3.png",
+          "https://i.ibb.co/KKQvr92/p68-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "White",
+            "brand": "HP",
+            "Printing_Method": "Laser",
+            "Type": "Single Function"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 3,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["SAMSUNG", "DELL"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 69,
+        "product_name": "SAMSUNG 22 inch Full HD IPS Panel Monitor (LF22T354FHWXXL/LS22C310EAWXXL)  (Response Time: 5 ms, 75 Hz Refresh Rate)",
+        "product_img": "https://i.ibb.co/KqG9fqx/p69-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Awesome",
+        "cost": 7799,
+        "actual_price": 12300,
+        "offer": "36% Off",
+        "images": [
+          "https://i.ibb.co/KqG9fqx/p69-1.png",
+          "https://i.ibb.co/svt6L1L/p69-2.png",
+          "https://i.ibb.co/tCHt5qT/p69-3.png",
+          "https://i.ibb.co/Pc25Fhh/p69-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "SAMSUNG",
+            "Display": "55.88 cm (22 inch) LED Backlit Display",
+            "Type": "IPS Panel"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 70,
+        "product_name": "DELL S Series 24 inch Full HD IPS Panel Monitor (S2421HNM / S2421HN)  (AMD Free Sync, Response Time: 4 ms, 75 Hz Refresh Rate)",
+        "product_img": "https://i.ibb.co/xHdF3xD/p70-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost": 12099,
+        "actual_price": 24789,
+        "offer": "51% Off",
+        "images": [
+          "https://i.ibb.co/xHdF3xD/p70-1.png",
+          "https://i.ibb.co/5k9dnGf/p70-2.png",
+          "https://i.ibb.co/618jFSM/p70-3.png",
+          "https://i.ibb.co/Wykdcdy/p70-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "DELL",
+            "Display": "60.96 cm (24 inch) LED Display",
+            "Type": "IPS Panel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 3,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["ZEBRONICS", "Livato"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Black", "Silver"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 71,
+        "product_name": "ZEBRONICS Zeb-PixaPlay 12 (3000 lm / 1 Speaker / Remote Controller) Projector  (Black)",
+        "product_img": "https://i.ibb.co/r6r5Mk3/p71-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Simply awesome",
+        "cost": 9299,
+        "actual_price": 21999,
+        "offer": "57% Off",
+        "images": [
+          "https://i.ibb.co/r6r5Mk3/p71-1.png",
+          "https://i.ibb.co/tLwkzNG/p71-2.png",
+          "https://i.ibb.co/92K3rFp/p71-3.png",
+          "https://i.ibb.co/CWmS6yn/p71-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "SAMSUNG",
+            "Sales_Package": "1 Projector, Remote Control, Power Cord, AV Cable, Support Base, HDMI Cable, User Manual",
+            "Type": "Projector"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 72,
+        "product_name": "Livato Updated T6 Full HD Android 4000 lm Bluetooth (4000 lm / Wireless / Remote Controller) Portable Projector",
+        "product_img": "https://i.ibb.co/B3pK0JZ/p72-1.png",
+        "average_rating": 3.8,
+        "rating_text": "Very Good",
+        "cost": 8999,
+        "actual_price": 19999,
+        "offer": "55% Off",
+        "images": [
+          "https://i.ibb.co/B3pK0JZ/p72-1.png",
+          "https://i.ibb.co/sCTvg1h/p72-2.png",
+          "https://i.ibb.co/yFTQFJg/p72-3.png",
+          "https://i.ibb.co/GPGyFJx/p72-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Silver",
+            "brand": "Livato",
+            "Sales_Package": "Projector, Remote Control, Power cable, AV cable, User Manual",
+            "Type": "Projector"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 4,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["PHILIPS", "Syska"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Black", "Silver"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 73,
+        "product_name": "PHILIPS BT3101/15 Trimmer 45 min Runtime 10 Length Settings  (Black, White)",
+        "product_img": "https://i.ibb.co/WW9cTht/p73-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Nice one",
+        "cost": 999,
+        "actual_price": 1495,
+        "offer": "33% Off",
+        "images": [
+          "https://i.ibb.co/WW9cTht/p73-1.png",
+          "https://i.ibb.co/85SSdKj/p73-2.png",
+          "https://i.ibb.co/WWSkt4n/p73-3.png",
+          "https://i.ibb.co/QcnmFNZ/p73-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black, White",
+            "brand": "PHILIPS",
+            "Material": "Stainless Steel, Plastic",
+            "Type": "Cordless"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 74,
+        "product_name": "Syska HT450-Avalanche White Trimmer 90 min Runtime 20 Length Settings  (White)",
+        "product_img": "https://i.ibb.co/x7Nszsg/p74-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost": 699,
+        "actual_price": 1299,
+        "offer": "46% Off",
+        "images": [
+          "https://i.ibb.co/x7Nszsg/p74-1.png",
+          "https://i.ibb.co/5rDBZdf/p74-2.png",
+          "https://i.ibb.co/Lhs59FS/p74-3.png",
+          "https://i.ibb.co/xJQ6PFc/p74-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Silver",
+            "brand": "Syska",
+            "": "Stainless Steel",
+            "Type": "Cordless"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 4,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["PHILIPS", "VEGA"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Lavender", "Gold"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 75,
+        "product_name": "PHILIPS BHS393/40 Hair Straightener  (Lavender)",
+        "product_img": "https://i.ibb.co/9gJ06Wt/p75-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Excellent",
+        "cost": 1646,
+        "actual_price": 2195,
+        "offer": "25% Off",
+        "images": [
+          "https://i.ibb.co/9gJ06Wt/p75-1.png",
+          "https://i.ibb.co/JdmR9rV/p75-2.png",
+          "https://i.ibb.co/8mZMT0K/p75-3.png",
+          "https://i.ibb.co/R6X8Tb5/p75-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Lavender",
+            "brand": "PHILIPS",
+            "Sales_Package": "1 Hair Straightener, User Manual, Warranty Card",
+            "Coating": "Ceramic"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 76,
+        "product_name": "VEGA 3 In 1 Hair Styler, Straightener, Curler & Crimper (VHSCC-01) Hair Straightener  (Gold, Black)",
+        "product_img": "https://i.ibb.co/25N3JhK/p76-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": 1299,
+        "actual_price": 1999,
+        "offer": "35% Off",
+        "images": [
+          "https://i.ibb.co/25N3JhK/p76-1.png",
+          "https://i.ibb.co/7rGCS5t/p76-2.png",
+          "https://i.ibb.co/NTGStcy/p76-3.png",
+          "https://i.ibb.co/chnd9D9/p76-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Gold",
+            "brand": "VEGA",
+            "Sales_Package": "3 in 1 Hair Styler",
+            "Coating": "Ceramic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 4,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["PHILIPS", "AGARO"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Blue", "Black"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 77,
+        "product_name": "PHILIPS HP8100/60 Hair Dryer  (1000 W, Blue)",
+        "product_img": "https://i.ibb.co/L9dcK2H/p77-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Excellent",
+        "cost": 799,
+        "actual_price": 1095,
+        "offer": "27% Off",
+        "images": [
+          "https://i.ibb.co/L9dcK2H/p77-1.png",
+          "https://i.ibb.co/dtd5Wxx/p77-2.png",
+          "https://i.ibb.co/42tkNBM/p77-3.png",
+          "https://i.ibb.co/f2skhvz/p77-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Blue",
+            "brand": "PHILIPS",
+            "Wattage": "1000 W",
+            "Cord_Length": "1.5 m"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 78,
+        "product_name": "AGARO HD-1120 2000 Watts Professional Hair Dryer Hair Dryer  (2000 W, Black, Brown)",
+        "product_img": "https://i.ibb.co/XSVHhLy/p78-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Very Good",
+        "cost": 1159,
+        "actual_price": 2595,
+        "offer": "55% Off",
+        "images": [
+          "https://i.ibb.co/XSVHhLy/p78-1.png",
+          "https://i.ibb.co/2PvSMqZ/p78-2.png",
+          "https://i.ibb.co/x5wmt2B/p78-3.png",
+          "https://i.ibb.co/f2sd3pJ/p78-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Black",
+            "brand": "AGARO",
+            "Wattage": "2000 W",
+            "Cord_Length": "1.5 m"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 5,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["KARWAN", "Coverskart"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Purple", "Brown"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 79,
+        "product_name": "KARWAN Back Cover for OPPO Reno7 Pro 5G  (Purple, Transparent, Shock Proof, Pack of: 1)",
+        "product_img": "https://i.ibb.co/xX2bMZy/p79-1.png",
+        "average_rating": 3.6,
+        "rating_text": "Excellent",
+        "cost": 349,
+        "actual_price": 1499,
+        "offer": "76% Off",
+        "images": [
+          "https://i.ibb.co/xX2bMZy/p79-1.png",
+          "https://i.ibb.co/9Gxq39P/p79-2.png",
+          "https://i.ibb.co/yp08hJ9/p79-3.png",
+          "https://i.ibb.co/F04Qm0J/p79-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Purple",
+            "brand": "KARWAN",
+            "Other_Features": "Shock Absorption- Impact resistant TPU lining around the polycarbonate case provides shock absorbing bumper protection for the corners and enhances grip to prevent sliding, Anti Scratch Clear Back- Premium clear polycarbonate prevents scratches on the device."
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 80,
+        "product_name": "Coverskart Back Cover for APPLE iPhone 11, Luxury Leather Case  (Brown, Dual Protection, Pack of: 1)",
+        "product_img": "https://i.ibb.co/sjm3xjN/p80-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": 379,
+        "actual_price": 999,
+        "offer": "62% Off",
+        "images": [
+          "https://i.ibb.co/sjm3xjN/p80-1.png",
+          "https://i.ibb.co/vkJWR3X/p80-2.png",
+          "https://i.ibb.co/rcLFCJr/p80-3.png",
+          "https://i.ibb.co/dQxNMG0/p80-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Brown",
+            "brand": "Coverskart",
+            "Other_Features": "Exact-fit Soft flexible case is easy to install and remove, without damaging your precious iPhone. Premium Crafts Hand-crafted from high quality vegan leather with beautiful stitching. Full Protection Hybrid vegan leather & TPU bumper provide maximum protection against drops, bumps, scratches and daily scrapes. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 5,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Fashionury", "Wellchoice"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 81,
+        "product_name": "Fashionury Back Cover for Vivo Y16, Vivo T2X 5G  (Multicolor, Grip Case, Silicon, Pack of: 1)",
+        "product_img": "https://i.ibb.co/SVgX2FZ/p81-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Classy product",
+        "cost": 199,
+        "actual_price": 699,
+        "offer": "71% Off",
+        "images": [
+          "https://i.ibb.co/SVgX2FZ/p81-1.png",
+          "https://i.ibb.co/RNBmHXZ/p81-2.png",
+          "https://i.ibb.co/p0DVpYW/p81-3.png",
+          "https://i.ibb.co/2YdLj7g/p81-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Multicolor",
+            "brand": "Fashionury",
+            "Other_Features": "Brand New Soft Designer Printed Case Express yourself by personalizing your phone and making it stand out. Many design and Prints in stock for your choice This Case keeps your PHONE safe and protected. Durable construction offers premium protection for side and back of your phone. "
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 82,
+        "product_name": "Wellchoice Back Cover for Vivo T1X  (Multicolor, Grip Case, Silicon, Pack of: 1)",
+        "product_img": "https://i.ibb.co/qdWssdd/p82-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": 199,
+        "actual_price": 699,
+        "offer": "71% Off",
+        "images": [
+          "https://i.ibb.co/qdWssdd/p82-1.png",
+          "https://i.ibb.co/S6WnjrS/p82-2.png",
+          "https://i.ibb.co/XS5Nv5v/p82-3.png",
+          "https://i.ibb.co/N73j2hD/p82-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Multicolor",
+            "brand": "Wellchoice",
+            "Other_Features": "Brand New Soft Designer Printed Case Express yourself by personalizing your phone and making it stand out. Many design and Prints in stock for your choice This Case keeps your PHONE safe and protected. Durable construction offers premium protection for side and back of your phone. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 1,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Story@home", "Decent"]
+      },
+      {
+        "filter_id": 13,
+        "filter_name": "Size",
+        "filter_values": ["Double", "Single"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 83,
+        "product_name": "Story@home 180 TC Microfiber Double Printed Flat Bedsheet  (Pack of 1, Blue)",
+        "product_img": "https://i.ibb.co/f8838cp/p83-1.png",
+        "average_rating": 4.6,
+        "rating_text": "Classy product",
+        "cost": 699,
+        "actual_price": 1999,
+        "offer": "65% Off",
+        "images": [
+          "https://i.ibb.co/f8838cp/p83-1.png",
+          "https://i.ibb.co/YDHtJYs/p83-2.png",
+          "https://i.ibb.co/7b25shP/p83-3.png",
+          "https://i.ibb.co/DRmSZJb/p83-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Blue",
+            "brand": "Story@home",
+            "Size": "Double"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 84,
+        "product_name": "Decent Home 240 TC Cotton Single Printed Flat Bedsheet  (Pack of 2, Gray, Black)",
+        "product_img": "https://i.ibb.co/smrDL8w/p84-1.png",
+        "average_rating": 3.7,
+        "rating_text": "Very Good",
+        "cost": 285,
+        "actual_price": 999,
+        "offer": "71% Off",
+        "images": [
+          "https://i.ibb.co/smrDL8w/p84-1.png",
+          "https://i.ibb.co/ww5BbMw/p84-2.png",
+          "https://i.ibb.co/BPjD3Tm/p84-3.png",
+          "https://i.ibb.co/NKk0fVP/p84-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "Gray",
+            "brand": "Decent",
+            "Size": "Single"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 1,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["LA VERNE", "GULSAM"]
+      },
+      {
+        "filter_id": 14,
+        "filter_name": "Material",
+        "filter_values": ["Cotton", "Polycotton"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 85,
+        "product_name": "LA VERNE Microfibre Stripes Sleeping Pillow Pack of 2  (White)",
+        "product_img": "https://i.ibb.co/dpjhyyd/p85-1.png",
+        "average_rating": 4,
+        "rating_text": "Fabulous!",
+        "cost": 375,
+        "actual_price": 1599,
+        "offer": "76% Off",
+        "images": [
+          "https://i.ibb.co/dpjhyyd/p85-1.png",
+          "https://i.ibb.co/V9gfv71/p85-2.png",
+          "https://i.ibb.co/3BLsNPW/p85-3.png",
+          "https://i.ibb.co/P6LgVv5/p85-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "White",
+            "brand": "LA VERNE",
+            "Type": "Sleeping Pillow",
+            "Material": "Polycotton"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 86,
+        "product_name": "GULSAM Cotton Nature Sleeping Pillow Pack of 2  (White)",
+        "product_img": "https://i.ibb.co/c2Xs63d/p86-1.png",
+        "average_rating": 3.3,
+        "rating_text": "Nice one",
+        "cost": 194,
+        "actual_price": 999,
+        "offer": "80% Off",
+        "images": [
+          "https://i.ibb.co/c2Xs63d/p86-1.png",
+          "https://i.ibb.co/r7KYCqQ/p86-2.png",
+          "https://i.ibb.co/RjGx2TH/p86-3.png",
+          "https://i.ibb.co/gW4jMdB/p86-4.png"
+        ],
+        "product_details": [
+          {
+            "Color": "White",
+            "brand": "GULSAM",
+            "Type": "Sleeping Pillow",
+            "Material": "Cotton"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 2,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Pigeon", "Greenchef"]
+      },
+      {
+        "filter_id": 15,
+        "filter_name": "Type",
+        "filter_values": ["Non-stick cookware", "Coral Combo"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 87,
+        "product_name": "Pigeon Non- stick cookware- Favourite 7Pcs Gift set Non-Stick Coated Cookware Set  (Aluminium, 7 - Piece)",
+        "product_img": "https://i.ibb.co/87jp0tk/p87-1.png",
+        "average_rating": 3.8,
+        "rating_text": "Fabulous!",
+        "cost": 1299,
+        "actual_price": 3495,
+        "offer": "62% Off",
+        "images": [
+          "https://i.ibb.co/87jp0tk/p87-1.png",
+          "https://i.ibb.co/Dpjyr3c/p87-2.png",
+          "https://i.ibb.co/BTVNdZv/p87-3.png",
+          "https://i.ibb.co/PWsQvY1/p87-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Pigeon",
+            "Type": "Non-stick cookware",
+            "Sales_Package": "7Pc Set - 1Pc Tawa, 1Pc Fry Pan, 1Pc kadhai, 1Pc Lid, 1Pc Sauce Pan, 1Pc Tadka Pan, 1Pc Spatula"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 88,
+        "product_name": "Greenchef Coral Combo 5 L, 3 L, 2 L Pressure Cooker  (Aluminium)",
+        "product_img": "https://i.ibb.co/ChFdLcG/p88-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Nice one",
+        "cost": 1399,
+        "actual_price": 3099,
+        "offer": "54% Off",
+        "images": [
+          "https://i.ibb.co/ChFdLcG/p88-1.png",
+          "https://i.ibb.co/1MmcTRT/p88-2.png",
+          "https://i.ibb.co/YpYRzpx/p88-3.png",
+          "https://i.ibb.co/K53Dw6Z/p88-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Greenchef",
+            "Type": "Coral Combo",
+            "Sales_Package": "2L Pressure Pan, 3L Pressure Cooker, 5L Pressure Cooker, Warranty Card"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 2,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Zulay", "BOROSIL", "Sumeet", "Flipkart SmartBuy"]
+      },
+      {
+        "filter_id": 15,
+        "filter_name": "Type",
+        "filter_values": ["Lunch Box", "Flask", "Bottle"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 89,
+        "product_name": "Zulay Kitchen Premium 4 in 1 Steel Lunch Box 1 Plastic Bottle,1 Casserole Set,2 Spoon with Bag 3 Containers Lunch Box  (700 ml, Thermoware)",
+        "product_img": "https://i.ibb.co/yV3FF6k/p89-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Awesome",
+        "cost": 495,
+        "actual_price": 1399,
+        "offer": "64% Off",
+        "images": [
+          "https://i.ibb.co/yV3FF6k/p89-1.png",
+          "https://i.ibb.co/bRft9zx/p89-2.png",
+          "https://i.ibb.co/VDdbQXQ/p89-3.png",
+          "https://i.ibb.co/2qHtrV2/p89-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Zulay",
+            "Type": "Lunch Box",
+            "Other_Features": "Lunch Box with 3 Push-up Air Tight & Leak Proof Containers, 1 Casseroles Set with Plastic Bottle, Carry rice, chapatis and curry in the containers. Lassi or water can be carried in the bottle conveniently."
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 90,
+        "product_name": "BOROSIL Glass dish with plastic lid of 400ml ICYTRD2400V 2 Containers Lunch Box  (400 ml)",
+        "product_img": "https://i.ibb.co/KhC4zWK/p90-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Great Product Quality",
+        "cost": 789,
+        "actual_price": 945,
+        "offer": "16% Off",
+        "images": [
+          "https://i.ibb.co/KhC4zWK/p90-1.png",
+          "https://i.ibb.co/zngKVhb/p90-2.png",
+          "https://i.ibb.co/LktkSy3/p90-3.png",
+          "https://i.ibb.co/5FM7155/p90-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "BOROSIL",
+            "Type": "Lunch Box",
+            "Other_Features": "With the Borosil Lunch Box set, carry your homemade, delicious, and healthy meal wherever you go. These sturdy, microwavable, and leak-proof lunch box containers are made of 100% Borosilicate Glass. They are Stackable and Air/Liquid Tight, and they can resist heat up to 400°C."
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 91,
+        "product_name": "Sumeet Stainless Steel Double Wall Flask/Water Bottle,24 Hours Hot & Cold,1000 ml, Silver 1000 ml Flask  (Pack of 1, Silver, Steel)",
+        "product_img": "https://i.ibb.co/FXhpR7F/p91-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Great Product Quality",
+        "cost": 479,
+        "actual_price": 1560,
+        "offer": "69% Off",
+        "images": [
+          "https://i.ibb.co/FXhpR7F/p91-1.png",
+          "https://i.ibb.co/nr029r0/p91-2.png",
+          "https://i.ibb.co/0tN535Z/p91-3.png",
+          "https://i.ibb.co/tCrSRMb/p91-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Sumeet",
+            "Type": "Flask",
+            "Other_Features": "Every Sumeet product is carefully built to deliver exceptional quality. Sumeet presents Double Walled Vacuum Stainless-Steel Flask which keeps water or beverages hot up to 24 hours or cold up to 24 hours as per the requirement. It encourages you to live healthy lifestyle by switching to steel, TRUST IN EVERY DROP."
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 92,
+        "product_name": "Flipkart SmartBuy Designer Mosaic Bottle - 1000ml - PET  (Pack of 6, Multicolor, PET)",
+        "product_img": "https://i.ibb.co/xFHnzqG/p92-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Nice one",
+        "cost": 259,
+        "actual_price": 1279,
+        "offer": "79% Off",
+        "images": [
+          "https://i.ibb.co/xFHnzqG/p92-1.png",
+          "https://i.ibb.co/4PGNC4X/p92-2.png",
+          "https://i.ibb.co/jwhp6Lm/p92-3.png",
+          "https://i.ibb.co/2F814fx/p92-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Flipkart SmartBuy",
+            "Type": "Bottle",
+            "Other_Features": "Food Grade, Freezer Safe, Leak Proof, Hygienic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 3,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Flipkart SmartBuy", "rawpockets"]
+      },
+      {
+        "filter_id": 15,
+        "filter_name": "Type",
+        "filter_values": ["Wallpaper", "Wall Sticker"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 93,
+        "product_name": "Flipkart SmartBuy 500 cm Wall Stickers Wallpaper Happy Winter Trees and Frames Home DIY Self Adhesive Self Adhesive Sticker  (Pack of 1)",
+        "product_img": "https://i.ibb.co/WvKGbLG/p93-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Fabulous!",
+        "cost": 189,
+        "actual_price": 999,
+        "offer": "81% Off",
+        "images": [
+          "https://i.ibb.co/WvKGbLG/p93-1.png",
+          "https://i.ibb.co/pKxTfN6/p93-2.png",
+          "https://i.ibb.co/nsDSY6R/p93-3.png",
+          "https://i.ibb.co/6wFTZKw/p93-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Flipkart SmartBuy",
+            "Type": "Wallpaper",
+            "Other_Features": "Wall Stickers Wallpaper Happy Winter Trees and Frames Home DIY Self Adhesive"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 94,
+        "product_name": "rawpockets 200 cm Blue Tree with Birds and Cage Self Adhesive Sticker  (Pack of 1)",
+        "product_img": "https://i.ibb.co/SVYf23s/p94-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Very nice product",
+        "cost": 299,
+        "actual_price": 599,
+        "offer": "50% Off",
+        "images": [
+          "https://i.ibb.co/SVYf23s/p94-1.png",
+          "https://i.ibb.co/JdXpHg3/p94-2.png",
+          "https://i.ibb.co/8NVYcVN/p94-3.png",
+          "https://i.ibb.co/VWfYBnt/p94-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "rawpockets",
+            "Type": "Wall Sticker",
+            "Other_Features": "Rawpockets Wall Sticker or Wall Decal that is affixed to a wall or other smooth surface for decoration and also to express your different emotions. Sticker make a fast, no-fuss alternative to messy paint and stencils. Self-adhesive backing removes without any surface damage. For best results, mount to a smooth surface"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 3,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["GrabBasket", "AJANTA"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": ["Multicolor", "White"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 95,
+        "product_name": "GrabBasket Analog 30 cm X 30 cm Wall Clock  (Multicolor, With Glass, Standard)",
+        "product_img": "https://i.ibb.co/JBKd2vh/p95-1.png",
+        "average_rating": 4,
+        "rating_text": "Nice",
+        "cost": 327,
+        "actual_price": 1999,
+        "offer": "72% Off",
+        "images": [
+          "https://i.ibb.co/JBKd2vh/p95-1.png",
+          "https://i.ibb.co/PYwtkRF/p95-2.png",
+          "https://i.ibb.co/2hRyWFN/p95-3.png",
+          "https://i.ibb.co/NCC4rhH/p95-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "GrabBasket Analog",
+            "Type": "Wall clock",
+            "Color": "Multicolor",
+            "Other_Features": "These decorative wall clocks are a wonderful for your home wall. Ideal For: Room Decor, Clock For Bedroom, Clock For Hall Decor Smart and stylish addition to your home."
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 96,
+        "product_name": "AJANTA Analog 32 cm X 32 cm Wall Clock  (White, With Glass, Standard)",
+        "product_img": "https://i.ibb.co/FYpk4cC/p96-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Very nice product",
+        "cost": 299,
+        "actual_price": 599,
+        "offer": "50% Off",
+        "images": [
+          "https://i.ibb.co/FYpk4cC/p96-1.png",
+          "https://i.ibb.co/4TV9xGv/p96-2.png",
+          "https://i.ibb.co/R29dxRF/p96-3.png",
+          "https://i.ibb.co/6XRPvxh/p96-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "AJANTA",
+            "Type": "Wall clock",
+            "Color": "White",
+            "Other_Features": "Clocks make a ticking noise as their mechanism counts out the seconds. The sound is feeble enough not to create a disturbance for the users."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 3,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["ONLINECRAFTS", "Gajkarna"]
+      },
+      {
+        "filter_id": 15,
+        "filter_name": "Type",
+        "filter_values": ["Wall shelf", "Key Holder"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 97,
+        "product_name": "ONLINECRAFTS wooden wall shelf 8 wala (brown) c2400 Wooden Wall Shelf  (Number of Shelves - 4, Brown)",
+        "product_img": "https://i.ibb.co/LZNsQwP/p97-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Very Good",
+        "cost": 799,
+        "actual_price": 1999,
+        "offer": "60% Off",
+        "images": [
+          "https://i.ibb.co/LZNsQwP/p97-1.png",
+          "https://i.ibb.co/P4SR4xn/p97-2.png",
+          "https://i.ibb.co/Dw3YcjN/p97-3.png",
+          "https://i.ibb.co/NLzndh3/p97-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "ONLINECRAFTS",
+            "Type": "Wall shelf",
+            "Color": "Brown",
+            "Other_Features": " A classy set of shelves that will adorn any room decor and will also prove to be very useful. A perfect wall accessory for modern homes as it is compact and also offers you with enough space."
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 98,
+        "product_name": "Gajkarna Creations Key Holder For Wall Home Design Mobile Phone Stand With Side Shelf Wood Key Holder  (7 Hooks, Brown)",
+        "product_img": "https://i.ibb.co/54knGMS/p98-1.png",
+        "average_rating": 4.3,
+        "rating_text": "Nice",
+        "cost": 147,
+        "actual_price": 749,
+        "offer": "80% Off",
+        "images": [
+          "https://i.ibb.co/54knGMS/p98-1.png",
+          "https://i.ibb.co/nLFsrDX/p98-2.png",
+          "https://i.ibb.co/sR23Hzy/p98-3.png",
+          "https://i.ibb.co/yynRrvR/p98-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Gajkarna",
+            "Type": "Key Holder",
+            "Color": "Brown",
+            "Other_Features": "Key Holder For Wall Home Design Mobile Phone Stand With Side Shelf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 1,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Mayne", "Miss & Chief"]
+      },
+      {
+        "filter_id": 15,
+        "filter_name": "Type",
+        "filter_values": ["Helicopter Toys", "Remote Control Car"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 99,
+        "product_name": "Mayne Exceed Helicopter With Remote Control Charging Helicopter Toys For Boys  (Multicolor)",
+        "product_img": "https://i.ibb.co/tpD0hQn/p99-1.png",
+        "average_rating": 3.4,
+        "rating_text": "Very very nice",
+        "cost": 421,
+        "actual_price": 1599,
+        "offer": "73% Off",
+        "images": [
+          "https://i.ibb.co/tpD0hQn/p99-1.png",
+          "https://i.ibb.co/vzJ62dL/p99-2.png",
+          "https://i.ibb.co/s9GQVHH/p99-3.png",
+          "https://i.ibb.co/MR80KQH/p99-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Mayne",
+            "Type": "Helicopter Toys",
+            "Color": "Multicolor",
+            "Other_Features": "Flight Time: Approx. 6-8 minutes Charging Time: About 30 minutes Suitable for: Ages 3+ Dimension battery: 3.7v 75mah USB Charging Auto Start induction"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 100,
+        "product_name": "Miss & Chief by Flipkart Chargeable 3D Remote Control Lighting Famous Car for 3+ Years Kids  (Red)",
+        "product_img": "https://i.ibb.co/WVczPXz/p100-1.png",
+        "average_rating": 3.8,
+        "rating_text": "Amazing product",
+        "cost": 469,
+        "actual_price": 900,
+        "offer": "47% Off",
+        "images": [
+          "https://i.ibb.co/WVczPXz/p100-1.png",
+          "https://i.ibb.co/p0CWtBN/p100-2.png",
+          "https://i.ibb.co/Jx7fQj4/p100-3.png",
+          "https://i.ibb.co/ZgxfM9Y/p100-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Miss & Chief",
+            "Type": "Remote Control Car",
+            "Color": "Red",
+            "Other_Features": "Miss & Chief The car comes with rechargeable 1(Pencil Cell) Batteries which can be charged with the charger that comes along with it. The Remote requires 2 AA Batteries which are (not Included) in the package. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 1,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["pikaboo", "Prekrasna"]
+      },
+      {
+        "filter_id": 15,
+        "filter_name": "Type",
+        "filter_values": ["ABCD Matt Puzzle", "LCD Writing Tablet"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 101,
+        "product_name": "pikaboo Foam ABCD Matt Puzzle Non Toxic  (Multicolor)",
+        "product_img": "https://i.ibb.co/HDXjwSD/p101-1.png",
+        "average_rating": 4,
+        "rating_text": "Very very nice",
+        "cost": 149,
+        "actual_price": 270,
+        "offer": "44% Off",
+        "images": [
+          "https://i.ibb.co/HDXjwSD/p101-1.png",
+          "https://i.ibb.co/frNr1W1/p101-2.png",
+          "https://i.ibb.co/k9Br1RZ/p101-3.pngq",
+          "https://i.ibb.co/JmDCs9s/p101-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "pikaboo",
+            "Type": "ABCD Matt Puzzle",
+            "Color": "Multicolor",
+            "Other_Features": "Alphabet & Number Recognition, Creativity & Imagination, Memory Building, Curiosity Building, Reading & Writing, Rhythm & Pattern Recognition"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 102,
+        "product_name": "Prekrasna Portable 8.5 Inch LCD Writing Tablet",
+        "product_img": "https://i.ibb.co/hFJpGQ1/p102-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Amazing product",
+        "cost": 171,
+        "actual_price": 400,
+        "offer": "57% Off",
+        "images": [
+          "https://i.ibb.co/hFJpGQ1/p102-1.png",
+          "https://i.ibb.co/tzGMwhw/p102-2.png",
+          "https://i.ibb.co/1LwxQ6W/p102-3.png",
+          "https://i.ibb.co/tLyh8dJ/p102-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Prekrasna",
+            "Type": "LCD Writing Tablet",
+            "Color": "Black",
+            "Other_Features": "LCD Writing Tablet / Drawing Board / Doodle Board / Writing Pad / slate for children - Reusable Portable Rewriter Educational Toys, Gift for Kids Student Teacher Adults Portable Rugged Drawing Notepad Suitable for Home School Office Memo Notebook Portable & Reusable Electronic Notepad & Drawing Doodle Ruff Pad with Full Erase Mode  (Pink)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 1,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["DOMS", "Parteet"]
+      },
+      {
+        "filter_id": 15,
+        "filter_name": "Type",
+        "filter_values": ["Art set", "Stationery set"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 103,
+        "product_name": "DOMS SMART KIT (NEW MODEL)",
+        "product_img": "https://i.ibb.co/c3SQDf5/p103-1.png",
+        "average_rating": 4.4,
+        "rating_text": "Fabulous!",
+        "cost": 499,
+        "actual_price": 825,
+        "offer": "39% Off",
+        "images": [
+          "https://i.ibb.co/c3SQDf5/p103-1.png",
+          "https://i.ibb.co/5sh5f9m/p103-2.png",
+          "https://i.ibb.co/NVcvqSK/p103-3.png",
+          "https://i.ibb.co/vHxppkB/p103-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "DOMS",
+            "Type": "Art set",
+            "Other_Features": "Poster color has a matte finish, which gives paintings a unique and distinctive look."
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 104,
+        "product_name": "Parteet 8 in1 Mix Stationery Gift Set for Kids(Car)",
+        "product_img": "https://i.ibb.co/RHRgZSn/p104-1.png",
+        "average_rating": 4.1,
+        "rating_text": "Amazing product",
+        "cost": 265,
+        "actual_price": 450,
+        "offer": "41% Off",
+        "images": [
+          "https://i.ibb.co/RHRgZSn/p104-1.png",
+          "https://i.ibb.co/Wv7pw6B/p104-2.png",
+          "https://i.ibb.co/QNck0Cp/p104-3.png",
+          "https://i.ibb.co/DQ74Kck/p104-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Parteet",
+            "Type": "stationery set",
+            "Other_Features": "Package includes 1 pc mix stationery set, Pack contains - 1 metal pencil box, 2 pencils, 1 eraser, 2 sharpener, 1 scale, 1 big dairy, 1 small dairy, 1 packet crayons colour , Packs are printed with kids favourite cartoon characters of kids, Liked by kids of all ages, A perfect gift pack for kids."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 2,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["Spartan Thunder", "CRADIAC", "Hipkoo"]
+      },
+      {
+        "filter_id": 15,
+        "filter_name": "Type",
+        "filter_values": ["Football", "Bicycle", "Badminton Kit"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 105,
+        "product_name": "Spartan Thunder Football - Size: 5  (Pack of 1)",
+        "product_img": "https://i.ibb.co/fkVWBH0/p105-1.png",
+        "average_rating": 4,
+        "rating_text": "Fabulous!",
+        "cost": 243,
+        "actual_price": 450,
+        "offer": "46% Off",
+        "images": [
+          "https://i.ibb.co/fkVWBH0/p105-1.png",
+          "https://i.ibb.co/5xtZHd1/p105-2.png",
+          "https://i.ibb.co/NnLGTgt/p105-3.png",
+          "https://i.ibb.co/yybRB9N/p105-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Spartan Thunder",
+            "Type": "Football",
+            "Other_Features": "deal for Senior This size 5 football is suitable for senior level players who play a more challenging game. Designed for Recreational Players and Beginners For those who have just begun to play the game, this ball will help them enjoy the game and learn new tricks."
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 106,
+        "product_name": "CRADIAC GLOBETROTTER SINGLE SPEED 26 T Mountain Cycle  (Single Speed, Black)",
+        "product_img": "https://i.ibb.co/nzncWhM/p106-1.png",
+        "average_rating": 4.2,
+        "rating_text": "Amazing",
+        "cost": 6335,
+        "actual_price": 31999,
+        "offer": "80% Off",
+        "images": [
+          "https://i.ibb.co/nzncWhM/p106-1.png",
+          "https://i.ibb.co/G99wjWW/p106-2.png",
+          "https://i.ibb.co/7nZ7kdR/p106-3.png",
+          "https://i.ibb.co/16CH8s8/p106-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "CRADIAC",
+            "Type": "Bicycle",
+            "Other_Features": "Gear: Single Speed| Gear Type: Non Geared"
+          }
+        ]
+      },
+      {
+        "product_id": 3,
+        "item_id": 107,
+        "product_name": "Hipkoo Sports Pro Badminton Set (2 Rackets, 3 Feather Shuttles and Bag) Badminton Kit",
+        "product_img": "https://i.ibb.co/g9VnBMm/p107-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Excellent",
+        "cost": 348,
+        "actual_price": 880,
+        "offer": "60% Off",
+        "images": [
+          "https://i.ibb.co/g9VnBMm/p107-1.png",
+          "https://i.ibb.co/tQkLFQg/p107-2.png",
+          "https://i.ibb.co/tHKc8Ck/p107-3.png",
+          "https://i.ibb.co/zRrzrjK/p107-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Hipkoo",
+            "Type": "Badminton Kit",
+            "Other_Features": "Badminton Racquet Combo (Set of 2 Rackets & 3 shuttlecocks & Bag) high quality products from Hipkoo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 2,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["AKTIV", "Dr Pacvu"]
+      },
+      {
+        "filter_id": 15,
+        "filter_name": "Type",
+        "filter_values": ["Gym Fitness Kit", "Skipping Rope"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 108,
+        "product_name": "AKTIV 3 In 1 Convertible Dumbbells & Barbell Home Gym Fitness Kit (10KG) Gym & Fitness Kit",
+        "product_img": "https://i.ibb.co/Zxxqnsh/p108-1.png",
+        "average_rating": 3.7,
+        "rating_text": "Awesome",
+        "cost": 589,
+        "actual_price": 1999,
+        "offer": "70% Off",
+        "images": [
+          "https://i.ibb.co/Zxxqnsh/p108-1.png",
+          "https://i.ibb.co/bKc3X6d/p108-2.png",
+          "https://i.ibb.co/M9Q5h03/p108-3.png",
+          "https://i.ibb.co/d4k90HQ/p108-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "AKTIV",
+            "Type": "Gym Fitness Kit",
+            "Other_Features": "Strengthening Muscle, Improve Core Muscle, Firm and Tighten Upper Body, Strengthening Muscles,, Shape & Tone Arms & Back"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 109,
+        "product_name": "Dr Pacvu Set3|Single, Plastic Resistance Band Foam Skipping Rope Body Stretching,Exercise Gym & Fitness Kit",
+        "product_img": "https://i.ibb.co/dQ0Dxpv/p109-1.png",
+        "average_rating": 3.9,
+        "rating_text": "Amazing",
+        "cost": 586,
+        "actual_price": 2999,
+        "offer": "80% Off",
+        "images": [
+          "https://i.ibb.co/dQ0Dxpv/p109-1.png",
+          "https://i.ibb.co/G3hwNcQ/p109-2.png",
+          "https://i.ibb.co/W3DPPzr/p109-3.png",
+          "https://i.ibb.co/7Y657vd/p109-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "Dr Pacvu",
+            "Type": "Skipping Rope",
+            "Other_Features": "Physical Fitness, Body Stretching, Full Body Workout, Home GYM Exercise"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 3,
+    "productType_id": 2,
+    "filter": [
+      {
+        "filter_id": 16,
+        "filter_name": "Author",
+        "filter_values": ["R.D Sharma", "Target Publications"]
+      },
+      {
+        "filter_id": 17,
+        "filter_name": "Publisher",
+        "filter_values": ["Dhanpat Rai publication", "Target Publications"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 110,
+        "product_name": "Objective Mathematics For Jee-Main & Other Engineering Entrance Examinations - Session 2020-21 (Set Of 2 Volumes)  (Paperback, R.D Sharma)",
+        "product_img": "https://i.ibb.co/rmxgTK0/p110-1.png",
+        "average_rating": 4,
+        "rating_text": "Awesome",
+        "cost": 1590,
+        "actual_price": 1665,
+        "offer": "4% Off",
+        "images": [
+          "https://i.ibb.co/rmxgTK0/p110-1.png",
+          "https://i.ibb.co/5WG7fZZ/p110-2.png",
+          "https://i.ibb.co/YZbBGfx/p110-3.png",
+          "https://i.ibb.co/CtvPDJr/p110-4.png"
+        ],
+        "product_details": [
+          {
+            "Author": "R.D Sharma",
+            "Publisher": "Dhanpat Rai publication",
+            "Language": "English"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 111,
+        "product_name": "MHT CET Books | MHT CET Physics, Chemistry, Mathematics & Biology Test Series Book | MHT-CET PCMB | Includes 6340 MCQs , Topic Tests, Model Test Paper And Revision Test  (Paperback, Target Publications)",
+        "product_img": "https://i.ibb.co/QDgKQKC/p111-1.png",
+        "average_rating": 3.4,
+        "rating_text": "Amazing",
+        "cost": 786,
+        "actual_price": 870,
+        "offer": "9% Off",
+        "images": [
+          "https://i.ibb.co/QDgKQKC/p111-1.png",
+          "https://i.ibb.co/yVz3dYF/p111-2.png",
+          "https://i.ibb.co/NChNX4V/p111-3.png",
+          "https://i.ibb.co/xHvs5rW/p111-4.png"
+        ],
+        "product_details": [
+          {
+            "Author": "Target Publications",
+            "Publisher": "Target Publications",
+            "Language": "English"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 3,
+    "productType_id": 3,
+    "filter": [
+      {
+        "filter_id": 16,
+        "filter_name": "Author",
+        "filter_values": ["Sankar", "Bhattacharya Abhirup"]
+      },
+      {
+        "filter_id": 17,
+        "filter_name": "Publisher",
+        "filter_values": ["Prabhat Prakashan", "Rupa & Co"]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 112,
+        "product_name": "Vivekanand Ki Atmakatha 1 Edition  (Hindi, Book, Sankar)",
+        "product_img": "https://i.ibb.co/dPR8ck9/p112-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Simply awesome",
+        "cost": 289,
+        "actual_price": 450,
+        "offer": "35% Off",
+        "images": [
+          "https://i.ibb.co/dPR8ck9/p112-1.png",
+          "https://i.ibb.co/nMdM9PG/p112-2.png",
+          "https://i.ibb.co/r4ZPJRH/p112-3.png",
+          "https://i.ibb.co/grm4Q3C/p112-4.png"
+        ],
+        "product_details": [
+          {
+            "Author": "Sankar",
+            "Publisher": "Prabhat Prakashan",
+            "Language": "Hindi"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 113,
+        "product_name": "Winning like Virat  (English, Paperback, Bhattacharya Abhirup)",
+        "product_img": "https://i.ibb.co/7tkRCLD/p113-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Amazing book",
+        "cost": 140,
+        "actual_price": 195,
+        "offer": "28% Off",
+        "images": [
+          "https://i.ibb.co/7tkRCLD/p113-1.png",
+          "https://i.ibb.co/qRXCnPg/p113-2.png",
+          "https://i.ibb.co/8dDqn0k/p113-3.png",
+          "https://i.ibb.co/x2GVQCB/p113-4.png"
+        ],
+        "product_details": [
+          {
+            "Author": "Bhattacharya Abhirup",
+            "Publisher": "Rupa & Co",
+            "Language": "English"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 3,
+    "productType_id": 4,
+    "filter": [
+      {
+        "filter_id": 16,
+        "filter_name": "Author",
+        "filter_values": ["Singh Shiv Aroor", "Carnegie Dale"]
+      },
+      {
+        "filter_id": 17,
+        "filter_name": "Publisher",
+        "filter_values": [
+          "Penguin Ebury Press",
+          "Srishti Publishers & Distributors"
+        ]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 114,
+        "product_name": "India's Most Fearless 2  (English, Paperback, Singh Shiv Aroor, Rahul)",
+        "product_img": "https://i.ibb.co/5k5Djrn/p114-1.png",
+        "average_rating": 4.8,
+        "rating_text": "Amazing book",
+        "cost": 199,
+        "actual_price": 299,
+        "offer": "33% Off",
+        "images": [
+          "https://i.ibb.co/5k5Djrn/p114-1.png",
+          "https://i.ibb.co/SKQJ9xj/p114-2.png",
+          "https://i.ibb.co/gtNHhcc/p114-3.png",
+          "https://i.ibb.co/cD1sCpF/p114-4.png"
+        ],
+        "product_details": [
+          {
+            "Author": "Singh Shiv Aroor",
+            "Publisher": "Penguin Ebury Press",
+            "Language": "English"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 115,
+        "product_name": "How to Win Friends and Influence People  (English, Paperback, Carnegie Dale)",
+        "product_img": "https://i.ibb.co/ftZv21X/p115-1.png",
+        "average_rating": 4.5,
+        "rating_text": "Brief Summary",
+        "cost": 159,
+        "actual_price": 250,
+        "offer": "36% Off",
+        "images": [
+          "https://i.ibb.co/ftZv21X/p115-1.png",
+          "https://i.ibb.co/ftZv21X/p115-1.png",
+          "https://i.ibb.co/ftZv21X/p115-1.png",
+          "https://i.ibb.co/ftZv21X/p115-1.png"
+        ],
+        "product_details": [
+          {
+            "Author": "Carnegie Dale",
+            "Publisher": "Srishti Publishers & Distributors",
+            "Language": "English"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 7,
+    "productCategory_id": 1,
+    "filter": [
+      {
+        "filter_id": 1,
+        "filter_name": "brand",
+        "filter_values": ["VIDA", "OKAYA", "BGauss"]
+      },
+      {
+        "filter_id": 2,
+        "filter_name": "color",
+        "filter_values": [
+          "Red",
+          "Metallic Grey",
+          "Matte Blue",
+          "Brooklyn Black"
+        ]
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "item_id": 116,
+        "product_name": "VIDA Powered by Hero V1 Pro Booking for Ex-showroom Price (with Portable Charger, Red)",
+        "product_img": "https://i.ibb.co/MNmDMrR/P116-1.png",
+        "average_rating": 4.7,
+        "rating_text": "Brilliant",
+        "cost": 139900,
+        "actual_price": 153890,
+        "offer": "10% Off",
+        "images": [
+          "https://i.ibb.co/MNmDMrR/P116-1.png",
+          "https://i.ibb.co/1sDn6z3/P116-2.png",
+          "https://i.ibb.co/LRvNhzB/P116-3.png",
+          "https://i.ibb.co/T24mSbh/P116-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "VIDA",
+            "color": "Red",
+            "Type": "Electric Scooter"
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "item_id": 117,
+        "product_name": "OKAYA Faast F3 Booking for Ex-showroom Price (with Portable Charger, Metallic Grey)",
+        "product_img": "https://i.ibb.co/BrddNTV/p117-1.png",
+        "average_rating": 4,
+        "rating_text": "Awesome",
+        "cost": 129948,
+        "actual_price": 136445,
+        "offer": "5% Off",
+        "images": [
+          "https://i.ibb.co/BrddNTV/p117-1.png",
+          "https://i.ibb.co/3rDs8hR/p117-2.png",
+          "https://i.ibb.co/yk1jz0X/p117-3.png",
+          "https://i.ibb.co/f0xVDPz/p117-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "OKAYA",
+            "color": "Metallic Grey",
+            "Type": "Electric Scooter"
+          }
+        ]
+      },
+      {
+        "product_id": 3,
+        "item_id": 118,
+        "product_name": "BGauss BG C12i MAX Booking for Ex-showroom Price (With CAN Enabled Charger, Matte Blue)",
+        "product_img": "https://i.ibb.co/2yyb4FV/p118-1.png",
+        "average_rating": 3,
+        "rating_text": "Excellent",
+        "cost": 120000,
+        "actual_price": 126153,
+        "offer": "4% Off",
+        "images": [
+          "https://i.ibb.co/2yyb4FV/p118-1.png",
+          "https://i.ibb.co/4p6C7fR/p118-2.png",
+          "https://i.ibb.co/bPj7TPk/p118-3.png",
+          "https://i.ibb.co/mFdm2TP/p118-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "BGauss",
+            "color": "Matte Blue",
+            "Type": "Electric Scooter"
+          }
+        ]
+      },
+      {
+        "product_id": 4,
+        "item_id": 119,
+        "product_name": "BGauss BG C12i MAX Booking for Ex-showroom Price (With CAN Enabled Charger, Brooklyn Black)",
+        "product_img": "https://i.ibb.co/fd6YqQv/p119-1.png",
+        "average_rating": 3,
+        "rating_text": "Excellent",
+        "cost": 120000,
+        "actual_price": 126153,
+        "offer": "4% Off",
+        "images": [
+          "https://i.ibb.co/fd6YqQv/p119-1.png",
+          "https://i.ibb.co/QkRxt88/p119-2.png",
+          "https://i.ibb.co/VYkptK5/p119-3.png",
+          "https://i.ibb.co/XpF9JP8/p119-4.png"
+        ],
+        "product_details": [
+          {
+            "brand": "BGauss",
+            "color": "Brooklyn Black",
+            "Type": "Electric Scooter"
+          }
+        ]
+      }
+    ]
+  }
+]

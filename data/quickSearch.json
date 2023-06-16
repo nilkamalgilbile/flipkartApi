@@ -1,0 +1,126 @@
+[
+  {
+    "quickSearch_id": 1,
+    "quickSearch_name": "Best of Electronics",
+    "product": [
+      {
+        "product_id": 1,
+        "product_img": "https://i.ibb.co/QHZmVGX/product1.png",
+        "product_title": "Premium PowerBanks",
+        "product_offer": "Shop Now!",
+        "product_brand": "Mi, realme & more"
+      },
+      {
+        "product_id": 2,
+        "product_img": "https://i.ibb.co/M2qQ1DG/product2.png",
+        "product_title": "Top Mirrorless Cameras",
+        "product_offer": "Shop Now!",
+        "product_brand": "Canon, Sony & more"
+      },
+      {
+        "product_id": 3,
+        "product_img": "https://i.ibb.co/kBsjs5L/product3.png",
+        "product_title": "Printers",
+        "product_offer": "From &#x20B9;10190",
+        "product_brand": "Brother"
+      },
+      {
+        "product_id": 4,
+        "product_img": "https://i.ibb.co/zf8bskm/product4.png",
+        "product_title": "Monitors",
+        "product_offer": "From &#x20B9;7949",
+        "product_brand": "DELL"
+      },
+      {
+        "product_id": 5,
+        "product_img": "https://i.ibb.co/c8DcfgS/product5.png",
+        "product_title": "Projectors",
+        "product_offer": "From &#x20B9;9999",
+        "product_brand": "ZEBRONICS"
+      },
+      {
+        "product_id": 6,
+        "product_img": "https://i.ibb.co/Hr555BC/product6.png",
+        "product_title": "Designer Cases & Covers",
+        "product_offer": "Just &#x20B9;169",
+        "product_brand": "Check out the new designs"
+      },
+      {
+        "product_id": 7,
+        "product_img": "https://i.ibb.co/Hz2P44q/product7.png",
+        "product_title": "ASUS Monitors",
+        "product_offer": "From &#x20B9;9990",
+        "product_brand": "Top rated"
+      },
+      {
+        "product_id": 8,
+        "product_img": "https://i.ibb.co/xDWkPcq/product8.png",
+        "product_title": "Best of hair straighteners",
+        "product_offer": "From &#x20B9;599",
+        "product_brand": "Philips, Havells & more"
+      }
+    ]
+  },
+  {
+    "quickSearch_id": 2,
+    "quickSearch_name": "Beauty, Food, Toys & more",
+    "product": [
+      {
+        "product_id": 1,
+        "product_img": "https://i.ibb.co/Y0Fyd2k/product1.png",
+        "product_title": "Non-Geared Cycles",
+        "product_offer": "Up to 40% Off",
+        "product_brand": "Hercules, Hero & more"
+      },
+      {
+        "product_id": 2,
+        "product_img": "https://i.ibb.co/m61xP5v/product2.png",
+        "product_title": "Remote Control Toys",
+        "product_offer": "Up to 50% Off",
+        "product_brand": "Toyden, Funkey & more"
+      },
+      {
+        "product_id": 3,
+        "product_img": "https://i.ibb.co/nC50P2J/product3.png",
+        "product_title": "Footballs",
+        "product_offer": "Up to 60% Off",
+        "product_brand": "Nivia, Cosco & more"
+      },
+      {
+        "product_id": 4,
+        "product_img": "https://i.ibb.co/tzCJhvT/product4.png",
+        "product_title": "Dry Fruits",
+        "product_offer": "Up to 75% Off",
+        "product_brand": "Happilo, Farmley & more"
+      },
+      {
+        "product_id": 5,
+        "product_img": "https://i.ibb.co/h81QR3L/product5.png",
+        "product_title": "Coffee Powder",
+        "product_offer": "Up to 80% Off",
+        "product_brand": "Nescafe, Continental & more"
+      },
+      {
+        "product_id": 6,
+        "product_img": "https://i.ibb.co/NS0tZJD/product6.png",
+        "product_title": "Dumbbell",
+        "product_offer": "Up to 50% Off",
+        "product_brand": "PROWL, HRX & KRX"
+      },
+      {
+        "product_id": 7,
+        "product_img": "https://i.ibb.co/p0FqWvn/product7.png",
+        "product_title": "Musical Keyboards",
+        "product_offer": "Up to 70% Off",
+        "product_brand": "Beston, Redbox & more"
+      },
+      {
+        "product_id": 8,
+        "product_img": "https://i.ibb.co/gyjVMvt/product8.png",
+        "product_title": "Badminton Racquets",
+        "product_offer": "Up to 40% Off",
+        "product_brand": "Li-ning, Adrenex &more"
+      }
+    ]
+  }
+]

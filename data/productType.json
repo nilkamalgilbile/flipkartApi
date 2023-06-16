@@ -1,0 +1,394 @@
+[
+  {
+    "category_id": 3,
+    "productCategory_id": 1,
+    "productCategory_name": "Men's Top Wear",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Men's T-Shirts"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Men's Casual Shirts"
+      },
+      {
+        "productType_id": 4,
+        "productType_name": "Men's Formal Shirts"
+      },
+      {
+        "productType_id": 5,
+        "productType_name": "Men's Kurtas"
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 2,
+    "productCategory_name": "Men's Bottom Wear",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Men's Jeans"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Men's Trousers"
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 3,
+    "productCategory_name": "Women Ethnic",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Women Sarees"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Women Kurta Sets & Salwar Suits"
+      },
+      {
+        "productType_id": 4,
+        "productType_name": "Women Lehenga Cholis"
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 4,
+    "productCategory_name": "Men Footwear",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Men's Sports Shoes"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Men's Casual Shoes"
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 5,
+    "productCategory_name": "Women Footwear",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Women Flats"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Women Heels"
+      },
+      {
+        "productType_id": 4,
+        "productType_name": "Women Sports Shoes"
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 6,
+    "productCategory_name": "Watches and Accessories",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "Men & Women Watches"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Wallets"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Women Fashion Jewellery"
+      },
+      {
+        "productType_id": 4,
+        "productType_name": "Handbags"
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "productCategory_id": 7,
+    "productCategory_name": "Kids",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Girls Dresses"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Boys Ethnic Wear"
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 1,
+    "productCategory_name": "Audio",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Headphones"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Bluetooth Speakers"
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 2,
+    "productCategory_name": "Cameras & Accessories",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "DSLR & Mirrorless"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Camera Lenses"
+      },
+      {
+        "productType_id": 4,
+        "productType_name": "Drone"
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 3,
+    "productCategory_name": "Computer Peripherals",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Printers"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Monitors"
+      },
+      {
+        "productType_id": 4,
+        "productType_name": "Projectors"
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 4,
+    "productCategory_name": "Health & Personal Care",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Trimmers"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Hair Straighteners"
+      },
+      {
+        "productType_id": 4,
+        "productType_name": "Hair Dryers"
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "productCategory_id": 5,
+    "productCategory_name": "Mobile Accessories",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Plain cases"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Designer Cases"
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 1,
+    "productCategory_name": "Home Furnishings",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Bed Linens"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Cushion & Pillows"
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 2,
+    "productCategory_name": "Kitchen & Dining",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Cookware"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Lunchboxes, Bottles & Flasks"
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "productCategory_id": 3,
+    "productCategory_name": "Home Decor",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Stickers & Wallpapers"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Clocks"
+      },
+      {
+        "productType_id": 4,
+        "productType_name": "Wall Decor"
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 1,
+    "productCategory_name": "Toys & School Supplies",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Remote Control Toys"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Learning & Educational Toys"
+      },
+      {
+        "productType_id": 4,
+        "productType_name": "School Supplies"
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 2,
+    "productCategory_name": "Sports & Fitness",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Sports"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Fitness Equipments"
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "productCategory_id": 3,
+    "productCategory_name": "Books",
+    "productType": [
+      {
+        "productType_id": 1,
+        "productType_name": "All"
+      },
+      {
+        "productType_id": 2,
+        "productType_name": "Academics"
+      },
+      {
+        "productType_id": 3,
+        "productType_name": "Literature & Fiction"
+      },
+
+      {
+        "productType_id": 4,
+        "productType_name": "Non Fiction"
+      }
+    ]
+  },
+  {
+    "category_id": 7,
+    "productCategory_id": 1,
+    "productCategory_name": "Electric vehicles"
+  }
+]

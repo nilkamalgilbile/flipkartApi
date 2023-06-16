@@ -1,0 +1,9 @@
+[
+  { "category_id": 1, "category_name": "Grocery" },
+  { "category_id": 2, "category_name": "Mobiles" },
+  { "category_id": 3, "category_name": "Fashion" },
+  { "category_id": 4, "category_name": "Electronics" },
+  { "category_id": 5, "category_name": "Home" },
+  { "category_id": 6, "category_name": "Beauty, Toys & More" },
+  { "category_id": 7, "category_name": "Two Wheelers" }
+]
